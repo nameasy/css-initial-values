@@ -1,0 +1,20 @@
+:focus {
+	outline: none;
+}
+
+body {
+	background-color: var(--color-bg);
+	color: var(--color-text);
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: 'Syne', sans-serif;
+	font-size: var(--text-base);
+	line-height: 1.2;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	vertical-align: middle;
+}

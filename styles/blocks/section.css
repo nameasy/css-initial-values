@@ -1,0 +1,26 @@
+/*(+)*/
+.section__header,
+.section__content {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--max-width-md);
+}
+
+.section__header {
+	margin-bottom: var(--space-lg);
+}
+
+.section__title {
+	color: var(--color-title);
+	font-family: 'Space Mono', monospace;
+	font-size: var(--text-4xl);
+	font-style: italic;
+	font-weight: 700;
+	line-height: 1;
+	margin-bottom: var(--space-md);
+	text-align: center;
+}
+
+.section__search {
+	margin-bottom: var(--space-sm);
+}

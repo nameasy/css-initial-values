@@ -1,0 +1,17 @@
+/*(+)*/
+.footer {
+	flex-shrink: 0;
+	padding: 0 var(--space-md) var(--space-sm);
+}
+
+.footer__text {
+	/*color: var(--color-text);*/
+	font-size: var(--text-lg);
+	text-align: center;
+}
+
+@media screen and (max-width: 64rem) {
+	.footer {
+		padding: 0 var(--space-sm) var(--space-sm);
+	}
+}

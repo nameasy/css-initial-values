@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- Design by Stepan Lyubavtsev (https://lyubavtsev.ru/) -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta content="width=device-width, initial-scale=1" name="viewport" />
+		<title>CSS Initial Values</title>
+		<meta content="CSS Initial Values" name="title" />
+		<meta content="A mini-application to help you easily find the initial value of the CSS properties you need" name="description" />
+		<meta content="website" property="og:type" />
+		<meta content="" property="og:url" />
+		<meta content="CSS Initial Values" property="og:title" />
+		<meta content="A mini-application to help you easily find the initial value of the CSS properties you need" property="og:description" />
+		<meta content="summary_large_image" property="twitter:card" />
+		<meta content="" property="twitter:url" />
+		<meta content="CSS Initial Values" property="twitter:title" />
+		<meta content="A mini-application to help you easily find the initial value of the CSS properties you need" property="twitter:description" />
+		<link href="styles/index.css" rel="stylesheet" />
+		<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Syne:wght@400..800&display=swap" rel="stylesheet" />
+	</head>
+
+	<body>
+		<svg style="display: none">
+			<defs>
+				<symbol fill="none" id="search" viewbox="0 0 20 24">
+					<path d="M13 15L18 20M15 10C15 13.866 11.866 17 8 17C4.13401 17 1 13.866 1 10C1 6.13401 4.13401 3 8 3C11.866 3 15 6.13401 15 10Z" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"></path>
+				</symbol>
+			</defs>
+		</svg>
+		<div class="page">
+			<main class="main">
+				<section class="section">
+					<header class="section__header">
+						<h1 class="section__title">CSS Initial Values</h1>
+						<form class="search-field section__search">
+							<label class="visually-hidden">Search</label>
+							<svg class="search-field__icon" height="24" width="20">
+								<use href="#search"></use>
+							</svg>
+							<input autocomplete="off" class="input search-field__input" placeholder="Search" type="text" />
+						</form>
+					</header>
+					<div class="section__content">
+						<ul class="property-list"></ul>
+					</div>
+				</section>
+			</main>
+			<footer class="footer">
+				<div class="footer__text">Project by <a class="link" href="http://mywonderful.website/">Stepan Lyubavtsev</a></div>
+			</footer>
+		</div>
+		<script src="scripts/index_1.js"></script>
+	</body>
+</html>

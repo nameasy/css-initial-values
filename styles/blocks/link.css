@@ -1,0 +1,17 @@
+/*(+)*/
+.link {
+	color: inherit;
+	cursor: pointer;
+	text-decoration-color: var(--color-bg-darker);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.25em;
+	text-underline-position: auto;
+	transition-duration: 0.25s;
+	transition-property: color, text-decoration-color;
+}
+
+.link:hover {
+	text-decoration-color: var(--color-gray-dark);
+}

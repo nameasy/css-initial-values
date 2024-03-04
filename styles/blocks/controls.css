@@ -1,0 +1,41 @@
+/*(+)*/
+.button,
+.input,
+.tag {
+	appearance: none;
+	border: 0;
+	border-radius: 0.25rem;
+	color: inherit;
+	font-family: inherit;
+	font-size: var(--text-md);
+	line-height: 1.2;
+	transition-duration: 0.25s;
+}
+
+.button,
+.tag {
+	align-items: center;
+	background-color: var(--color-bg-dark);
+	cursor: pointer;
+	display: inline-flex;
+	gap: var(--space-3xs);
+	justify-content: center;
+	/*overflow: hidden;*/
+	padding: var(--space-2xs) var(--space-sm);
+	position: relative;
+	transition-property: background-color, color;
+	user-select: none;
+}
+
+.button:hover,
+.tag:hover {
+	background-color: var(--color-bg-darker);
+}
+
+.button__icon {
+	height: var(--text-md);
+	stroke: var(--color-text);
+	transition-duration: 0.25s;
+	transition-property: stroke;
+	width: var(--text-md);
+}
