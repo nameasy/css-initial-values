@@ -16,7 +16,8 @@
 	font-size: var(--text-4xl);
 	font-style: italic;
 	font-weight: 700;
-	line-height: 1;
+	/*line-height: 1;*/
+	line-height: 1.1;
 	margin-bottom: var(--space-md);
 	text-align: center;
 }
