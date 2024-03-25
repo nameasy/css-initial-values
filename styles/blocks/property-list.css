@@ -1,7 +1,8 @@
 /*(+)*/
 .property-list__item {
 	align-items: baseline;
-	border-bottom: 4px solid var(--color-bg-dark);
+	/*border-bottom: 4px solid var(--color-bg-dark);*/
+	border-bottom: 4px dotted var(--color-bg-dark);
 	display: flex;
 	gap: var(--space-sm);
 	justify-content: space-between;
