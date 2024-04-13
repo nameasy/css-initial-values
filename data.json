@@ -1,2096 +1,1645 @@
 [
 	{
-		"id": 1,
 		"property": "accent-color",
 		"value": "auto"
 	},
 	{
-		"id": 2,
 		"property": "align-content",
 		"value": "normal"
 	},
 	{
-		"id": 3,
 		"property": "align-items",
 		"value": "normal"
 	},
 	{
-		"id": 4,
 		"property": "align-self",
 		"value": "auto"
 	},
 	{
-		"id": 5,
 		"property": "align-tracks",
 		"value": "normal"
 	},
 	{
-		"id": 6,
 		"property": "all",
 		"value": "There is no practical initial value for it."
 	},
 	{
-		"id": 7,
 		"property": "animation",
-		"value": null
+		"value": "Shortcut for the following properties: animation-name (none), animation-duration (0s), animation-timing-function (ease), animation-delay (0s), animation-iteration-count (1), animation-direction (normal), animation-fill-mode (none), animation-play-state (running), animation-timeline (auto)"
 	},
 	{
-		"id": 8,
 		"property": "animation-composition",
 		"value": "replace"
 	},
 	{
-		"id": 9,
 		"property": "animation-delay",
 		"value": "0s"
 	},
 	{
-		"id": 10,
 		"property": "animation-direction",
 		"value": "normal"
 	},
 	{
-		"id": 11,
 		"property": "animation-duration",
 		"value": "0s"
 	},
 	{
-		"id": 12,
 		"property": "animation-fill-mode",
 		"value": "none"
 	},
 	{
-		"id": 13,
 		"property": "animation-iteration-count",
-		"value": 1
+		"value": "1"
 	},
 	{
-		"id": 14,
 		"property": "animation-name",
 		"value": "none"
 	},
 	{
-		"id": 15,
 		"property": "animation-play-state",
 		"value": "running"
 	},
 	{
-		"id": 16,
 		"property": "animation-timeline",
 		"value": "auto"
 	},
 	{
-		"id": 17,
 		"property": "animation-timing-function",
 		"value": "ease"
 	},
 	{
-		"id": 18,
 		"property": "appearance",
 		"value": "none"
 	},
 	{
-		"id": 19,
 		"property": "aspect-ratio",
 		"value": "auto"
 	},
 	{
-		"id": 20,
 		"property": "backdrop-filter",
 		"value": "none"
 	},
 	{
-		"id": 21,
 		"property": "backface-visibility",
 		"value": "visible"
 	},
 	{
-		"id": 22,
 		"property": "background",
-		"value": null
+		"value": "Shortcut for the following properties: background-image (none), background-position (0% 0%), background-size (auto auto), background-repeat (repeat), background-origin (padding-box), background-clip (border-box), background-attachment (scroll), background-color (transparent)"
 	},
 	{
-		"id": 23,
 		"property": "background-attachment",
 		"value": "scroll"
 	},
 	{
-		"id": 24,
 		"property": "background-blend-mode",
 		"value": "normal"
 	},
 	{
-		"id": 25,
 		"property": "background-clip",
 		"value": "border-box"
 	},
 	{
-		"id": 26,
 		"property": "background-color",
 		"value": "transparent"
 	},
 	{
-		"id": 27,
 		"property": "background-image",
 		"value": "none"
 	},
 	{
-		"id": 28,
 		"property": "background-origin",
 		"value": "padding-box"
 	},
 	{
-		"id": 29,
 		"property": "background-position",
 		"value": "0% 0%"
 	},
 	{
-		"id": 30,
 		"property": "background-position-x",
-		"value": 0
+		"value": "0%"
 	},
 	{
-		"id": 31,
 		"property": "background-position-y",
-		"value": 0
+		"value": "0%"
 	},
 	{
-		"id": 32,
 		"property": "background-repeat",
 		"value": "repeat"
 	},
 	{
-		"id": 33,
 		"property": "background-size",
 		"value": "auto auto"
 	},
 	{
-		"id": 34,
-		"property": "block-overflow",
-		"value": null
-	},
-	{
-		"id": 35,
 		"property": "block-size",
 		"value": "auto"
 	},
 	{
-		"id": 36,
 		"property": "border",
-		"value": null
+		"value": "Shortcut for the following properties: border-width, border-style, border-color, each of which is also a shortcut"
 	},
 	{
-		"id": 37,
 		"property": "border-block",
-		"value": null
+		"value": "Shortcut for the following properties: border-block-width (medium), border-block-style (none), border-block-color (currentcolor)"
 	},
 	{
-		"id": 38,
 		"property": "border-block-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 39,
 		"property": "border-block-end",
-		"value": null
+		"value": "Shortcut for the following properties: border-block-end-width (medium), border-block-end-style (none), border-block-end-color (currentcolor)"
 	},
 	{
-		"id": 40,
 		"property": "border-block-end-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 41,
 		"property": "border-block-end-style",
 		"value": "none"
 	},
 	{
-		"id": 42,
 		"property": "border-block-end-width",
 		"value": "medium"
 	},
 	{
-		"id": 43,
 		"property": "border-block-start",
-		"value": null
+		"value": "Shortcut for the following properties: border-block-start-width (medium), border-block-start-style (none), border-block-start-color (currentcolor)"
 	},
 	{
-		"id": 44,
 		"property": "border-block-start-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 45,
 		"property": "border-block-start-style",
 		"value": "none"
 	},
 	{
-		"id": 46,
 		"property": "border-block-start-width",
 		"value": "medium"
 	},
 	{
-		"id": 47,
 		"property": "border-block-style",
 		"value": "none"
 	},
 	{
-		"id": 48,
 		"property": "border-block-width",
 		"value": "medium"
 	},
 	{
-		"id": 49,
 		"property": "border-bottom",
-		"value": null
+		"value": "Shortcut for the following properties: border-bottom-width (medium), border-bottom-style (none), border-bottom-color (currentcolor)"
 	},
 	{
-		"id": 50,
 		"property": "border-bottom-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 51,
 		"property": "border-bottom-left-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 52,
 		"property": "border-bottom-right-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 53,
 		"property": "border-bottom-style",
 		"value": "none"
 	},
 	{
-		"id": 54,
 		"property": "border-bottom-width",
 		"value": "medium"
 	},
 	{
-		"id": 55,
 		"property": "border-collapse",
 		"value": "separate"
 	},
 	{
-		"id": 56,
 		"property": "border-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 57,
 		"property": "border-end-end-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 58,
 		"property": "border-end-start-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 59,
 		"property": "border-image",
-		"value": null
+		"value": "Shortcut for the following properties: border-image-source (none), border-image-slice (100%), border-image-width (1), border-image-outset (0), border-image-repeat (stretch)"
 	},
 	{
-		"id": 60,
 		"property": "border-image-outset",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 61,
 		"property": "border-image-repeat",
 		"value": "stretch"
 	},
 	{
-		"id": 62,
 		"property": "border-image-slice",
-		"value": 1
+		"value": "100%"
 	},
 	{
-		"id": 63,
 		"property": "border-image-source",
 		"value": "none"
 	},
 	{
-		"id": 64,
 		"property": "border-image-width",
-		"value": 1
+		"value": "1"
 	},
 	{
-		"id": 65,
 		"property": "border-inline",
-		"value": null
+		"value": "Shortcut for the following properties: border-inline-width (medium), border-inline-style (none), border-inline-color (currentcolor)"
 	},
 	{
-		"id": 66,
 		"property": "border-inline-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 67,
 		"property": "border-inline-end",
-		"value": null
+		"value": "Shortcut for the following properties: border-inline-end-width (medium), border-inline-end-style (none), border-inline-end-color (currentcolor)"
 	},
 	{
-		"id": 68,
 		"property": "border-inline-end-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 69,
 		"property": "border-inline-end-style",
 		"value": "none"
 	},
 	{
-		"id": 70,
 		"property": "border-inline-end-width",
 		"value": "medium"
 	},
 	{
-		"id": 71,
 		"property": "border-inline-start",
-		"value": null
+		"value": "Shortcut for the following properties: border-inline-start-width (medium), border-inline-start-style (none), border-inline-start-color (currentcolor)"
 	},
 	{
-		"id": 72,
 		"property": "border-inline-start-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 73,
 		"property": "border-inline-start-style",
 		"value": "none"
 	},
 	{
-		"id": 74,
 		"property": "border-inline-start-width",
 		"value": "medium"
 	},
 	{
-		"id": 75,
 		"property": "border-inline-style",
 		"value": "none"
 	},
 	{
-		"id": 76,
 		"property": "border-inline-width",
 		"value": "medium"
 	},
 	{
-		"id": 77,
 		"property": "border-left",
-		"value": null
+		"value": "Shortcut for the following properties: border-left-width (medium), border-left-style (none), border-left-color (currentcolor)"
 	},
 	{
-		"id": 78,
 		"property": "border-left-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 79,
 		"property": "border-left-style",
 		"value": "none"
 	},
 	{
-		"id": 80,
 		"property": "border-left-width",
 		"value": "medium"
 	},
 	{
-		"id": 81,
 		"property": "border-radius",
-		"value": null
+		"value": "Shortcut for the following properties: border-top-left-radius (0), border-top-right-radius (0), border-bottom-right-radius (0), border-bottom-left-radius (0)"
 	},
 	{
-		"id": 82,
 		"property": "border-right",
-		"value": null
+		"value": "Shortcut for the following properties: border-right-width (medium), border-right-style (none), border-right-color (currentcolor)"
 	},
 	{
-		"id": 83,
 		"property": "border-right-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 84,
 		"property": "border-right-style",
 		"value": "none"
 	},
 	{
-		"id": 85,
 		"property": "border-right-width",
 		"value": "medium"
 	},
 	{
-		"id": 86,
 		"property": "border-spacing",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 87,
 		"property": "border-start-end-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 88,
 		"property": "border-start-start-radius",
 		"value": "border-start-start-radius"
 	},
 	{
-		"id": 89,
 		"property": "border-style",
-		"value": null
+		"value": "Shortcut for the following properties: border-top-style (none), border-right-style (none), border-bottom-style (none), border-left-style (none)"
 	},
 	{
-		"id": 90,
 		"property": "border-top",
-		"value": null
+		"value": "Shortcut for the following properties: border-top-width (medium), border-top-style (none), border-top-color (currentcolor)"
 	},
 	{
-		"id": 91,
 		"property": "border-top-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 92,
 		"property": "border-top-left-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 93,
 		"property": "border-top-right-radius",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 94,
 		"property": "border-top-style",
 		"value": "none"
 	},
 	{
-		"id": 95,
 		"property": "border-top-width",
 		"value": "medium"
 	},
 	{
-		"id": 96,
 		"property": "border-width",
-		"value": null
+		"value": "Shortcut for the following properties: border-top-width (medium), border-right-width (medium), border-bottom-width (medium), border-left-width (medium)"
 	},
 	{
-		"id": 97,
 		"property": "bottom",
 		"value": "auto"
 	},
 	{
-		"id": 98,
 		"property": "box-decoration-break",
 		"value": "slice"
 	},
 	{
-		"id": 99,
 		"property": "box-shadow",
 		"value": "none"
 	},
 	{
-		"id": 100,
 		"property": "box-sizing",
 		"value": "content-box"
 	},
 	{
-		"id": 101,
 		"property": "break-after",
 		"value": "auto"
 	},
 	{
-		"id": 102,
 		"property": "break-before",
 		"value": "auto"
 	},
 	{
-		"id": 103,
 		"property": "break-inside",
 		"value": "auto"
 	},
 	{
-		"id": 104,
 		"property": "caption-side",
 		"value": "top"
 	},
 	{
-		"id": 105,
 		"property": "caret",
-		"value": null
+		"value": "Shortcut for the following properties: caret-color (auto), caret-shape (auto)"
 	},
 	{
-		"id": 106,
 		"property": "caret-color",
-		"value": null
+		"value": "auto"
 	},
 	{
-		"id": 107,
 		"property": "caret-shape",
-		"value": null
+		"value": "auto"
 	},
 	{
-		"id": 108,
 		"property": "clear",
 		"value": "none"
 	},
 	{
-		"id": 109,
 		"property": "clip",
 		"value": "auto"
 	},
 	{
-		"id": 110,
 		"property": "clip-path",
 		"value": "none"
 	},
 	{
-		"id": 111,
 		"property": "color",
 		"value": "canvastext"
 	},
 	{
-		"id": 112,
 		"property": "color-scheme",
 		"value": "normal"
 	},
 	{
-		"id": 113,
 		"property": "column-count",
 		"value": "auto"
 	},
 	{
-		"id": 114,
 		"property": "column-fill",
 		"value": "balance"
 	},
 	{
-		"id": 115,
 		"property": "column-gap",
 		"value": "normal"
 	},
 	{
-		"id": 116,
 		"property": "column-rule",
-		"value": null
+		"value": "Shortcut for the following properties: column-rule-width (medium), column-rule-style (none), column-rule-color (currentcolor)"
 	},
 	{
-		"id": 117,
 		"property": "column-rule-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 118,
 		"property": "column-rule-style",
 		"value": "none"
 	},
 	{
-		"id": 119,
 		"property": "column-rule-width",
 		"value": "medium"
 	},
 	{
-		"id": 120,
 		"property": "column-span",
 		"value": "none"
 	},
 	{
-		"id": 121,
 		"property": "column-width",
 		"value": "auto"
 	},
 	{
-		"id": 122,
 		"property": "columns",
-		"value": null
+		"value": "Shortcut for the following properties: column-width (auto), column-count (auto)"
 	},
 	{
-		"id": 123,
 		"property": "contain",
 		"value": "none"
 	},
 	{
-		"id": 124,
 		"property": "contain-intrinsic-block-size",
 		"value": "none"
 	},
 	{
-		"id": 125,
 		"property": "contain-intrinsic-height",
 		"value": "none"
 	},
 	{
-		"id": 126,
 		"property": "contain-intrinsic-inline-size",
 		"value": "none"
 	},
 	{
-		"id": 127,
 		"property": "contain-intrinsic-size",
-		"value": null
+		"value": "Shortcut for the following properties: contain-intrinsic-width (none), contain-intrinsic-height (none)"
 	},
 	{
-		"id": 128,
 		"property": "contain-intrinsic-width",
 		"value": "none"
 	},
 	{
-		"id": 129,
 		"property": "container",
-		"value": null
+		"value": "Shortcut for the following properties: container-name (none), container-type (normal)"
 	},
 	{
-		"id": 130,
 		"property": "container-name",
 		"value": "none"
 	},
 	{
-		"id": 131,
 		"property": "container-type",
 		"value": "normal"
 	},
 	{
-		"id": 132,
 		"property": "content",
 		"value": "normal"
 	},
 	{
-		"id": 133,
 		"property": "content-visibility",
 		"value": "visible"
 	},
 	{
-		"id": 134,
 		"property": "counter-increment",
 		"value": "none"
 	},
 	{
-		"id": 135,
 		"property": "counter-reset",
 		"value": "none"
 	},
 	{
-		"id": 136,
 		"property": "counter-set",
 		"value": "none"
 	},
 	{
-		"id": 137,
 		"property": "cursor",
 		"value": "auto"
 	},
 	{
-		"id": 138,
 		"property": "direction",
 		"value": "ltr"
 	},
 	{
-		"id": 139,
 		"property": "display",
 		"value": "inline"
 	},
 	{
-		"id": 140,
 		"property": "empty-cells",
 		"value": "show"
 	},
 	{
-		"id": 141,
 		"property": "filter",
 		"value": "none"
 	},
 	{
-		"id": 142,
 		"property": "flex",
-		"value": null
+		"value": "Shortcut for the following properties: flex-grow (0), flex-shrink (1), flex-basis (auto)"
 	},
 	{
-		"id": 143,
 		"property": "flex-basis",
 		"value": "auto"
 	},
 	{
-		"id": 144,
 		"property": "flex-direction",
 		"value": "row"
 	},
 	{
-		"id": 145,
 		"property": "flex-flow",
-		"value": null
+		"value": "Shortcut for the following properties: flex-direction (row), flex-wrap (nowrap)"
 	},
 	{
-		"id": 146,
 		"property": "flex-grow",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 147,
 		"property": "flex-shrink",
-		"value": 1
+		"value": "1"
 	},
 	{
-		"id": 148,
 		"property": "flex-wrap",
 		"value": "nowrap"
 	},
 	{
-		"id": 149,
 		"property": "float",
 		"value": "none"
 	},
 	{
-		"id": 150,
 		"property": "font",
-		"value": null
+		"value": "Shortcut for the following properties: font-style (normal), font-variant (normal), font-weight (normal), font-stretch (normal), font-size (medium), line-height (normal), font-family (depends on user agent)"
 	},
 	{
-		"id": 151,
 		"property": "font-family",
 		"value": "depends on user agent"
 	},
 	{
-		"id": 152,
 		"property": "font-feature-settings",
 		"value": "normal"
 	},
 	{
-		"id": 153,
 		"property": "font-kerning",
 		"value": "auto"
 	},
 	{
-		"id": 154,
 		"property": "font-language-override",
 		"value": "normal"
 	},
 	{
-		"id": 155,
 		"property": "font-optical-sizing",
 		"value": "auto"
 	},
 	{
-		"id": 156,
 		"property": "font-palette",
 		"value": "normal"
 	},
 	{
-		"id": 157,
 		"property": "font-size",
 		"value": "medium"
 	},
 	{
-		"id": 158,
 		"property": "font-size-adjust",
 		"value": "none"
 	},
 	{
-		"id": 159,
 		"property": "font-stretch",
 		"value": "normal"
 	},
 	{
-		"id": 160,
 		"property": "font-style",
 		"value": "normal"
 	},
 	{
-		"id": 161,
 		"property": "font-synthesis",
 		"value": "weight style small-caps position"
 	},
 	{
-		"id": 162,
 		"property": "font-variant",
 		"value": "normal"
 	},
 	{
-		"id": 163,
 		"property": "font-variant-alternates",
 		"value": "normal"
 	},
 	{
-		"id": 164,
 		"property": "font-variant-caps",
 		"value": "normal"
 	},
 	{
-		"id": 165,
 		"property": "font-variant-east-asian",
 		"value": "normal"
 	},
 	{
-		"id": 166,
 		"property": "font-variant-emoji",
 		"value": "normal"
 	},
 	{
-		"id": 167,
 		"property": "font-variant-ligatures",
 		"value": "normal"
 	},
 	{
-		"id": 168,
 		"property": "font-variant-numeric",
 		"value": "normal"
 	},
 	{
-		"id": 169,
 		"property": "font-variant-position",
 		"value": "normal"
 	},
 	{
-		"id": 170,
 		"property": "font-variation-settings",
 		"value": "normal"
 	},
 	{
-		"id": 171,
 		"property": "font-weight",
 		"value": "normal"
 	},
 	{
-		"id": 172,
 		"property": "forced-color-adjust",
 		"value": "auto"
 	},
 	{
-		"id": 173,
 		"property": "gap",
-		"value": null
+		"value": "Shortcut for the following properties: row-gap (normal), column-gap (normal)"
 	},
 	{
-		"id": 174,
 		"property": "grid",
-		"value": null
+		"value": "Shortcut for the following properties: grid-template-rows (none), grid-template-columns (none), grid-template-areas (none), grid-auto-rows (auto), grid-auto-columns (auto), grid-auto-flow (row), grid-column-gap (0), grid-row-gap (0), column-gap (normal), row-gap (normal)"
 	},
 	{
-		"id": 175,
 		"property": "grid-area",
-		"value": null
+		"value": "Shortcut for the following properties: grid-row-start (auto), grid-column-start (auto), grid-row-end (auto), grid-column-end (auto)"
 	},
 	{
-		"id": 176,
 		"property": "grid-auto-columns",
-		"value": null
+		"value": "auto"
 	},
 	{
-		"id": 177,
 		"property": "grid-auto-flow",
 		"value": "row"
 	},
 	{
-		"id": 178,
 		"property": "grid-auto-rows",
 		"value": "auto"
 	},
 	{
-		"id": 179,
 		"property": "grid-column",
 		"value": "auto"
 	},
 	{
-		"id": 180,
 		"property": "grid-column-end",
 		"value": "auto"
 	},
 	{
-		"id": 181,
 		"property": "grid-column-start",
 		"value": "auto"
 	},
 	{
-		"id": 182,
 		"property": "grid-row",
-		"value": null
+		"value": "Shortcut for the following properties: grid-row-start (auto), grid-row-end (auto)"
 	},
 	{
-		"id": 183,
 		"property": "grid-row-end",
 		"value": "auto"
 	},
 	{
-		"id": 184,
 		"property": "grid-row-start",
 		"value": "auto"
 	},
 	{
-		"id": 185,
 		"property": "grid-template",
-		"value": null
+		"value": "Shortcut for the following properties: grid-template-columns (none), grid-template-rows (none), grid-template-areas (none)"
 	},
 	{
-		"id": 186,
 		"property": "grid-template-areas",
 		"value": "none"
 	},
 	{
-		"id": 187,
 		"property": "grid-template-columns",
 		"value": "none"
 	},
 	{
-		"id": 188,
 		"property": "grid-template-rows",
 		"value": "none"
 	},
 	{
-		"id": 189,
 		"property": "hanging-punctuation",
 		"value": "none"
 	},
 	{
-		"id": 190,
 		"property": "height",
 		"value": "auto"
 	},
 	{
-		"id": 191,
 		"property": "hyphenate-character",
 		"value": "auto"
 	},
 	{
-		"id": 192,
 		"property": "hyphenate-limit-chars",
 		"value": "auto"
 	},
 	{
-		"id": 193,
 		"property": "hyphens",
 		"value": "manual"
 	},
 	{
-		"id": 194,
 		"property": "image-orientation",
 		"value": "from-image"
 	},
 	{
-		"id": 195,
 		"property": "image-rendering",
 		"value": "auto"
 	},
 	{
-		"id": 196,
 		"property": "image-resolution",
 		"value": "1dppx"
 	},
 	{
-		"id": 197,
-		"property": "inherit",
-		"value": null
-	},
-	{
-		"id": 198,
-		"property": "initial",
-		"value": null
-	},
-	{
-		"id": 199,
 		"property": "initial-letter",
 		"value": "normal"
 	},
 	{
-		"id": 200,
 		"property": "initial-letter-align",
 		"value": "auto"
 	},
 	{
-		"id": 201,
 		"property": "inline-size",
 		"value": "auto"
 	},
 	{
-		"id": 202,
-		"property": "input-security",
-		"value": null
-	},
-	{
-		"id": 203,
 		"property": "inset",
-		"value": null
+		"value": "Shortcut for the following properties: top (auto), bottom (auto), left (auto), right (auto)"
 	},
 	{
-		"id": 204,
 		"property": "inset-block",
-		"value": null
+		"value": "Shortcut for the following properties: inset-block-start (auto), inset-block-end (auto)"
 	},
 	{
-		"id": 205,
 		"property": "inset-block-end",
 		"value": "auto"
 	},
 	{
-		"id": 206,
 		"property": "inset-block-start",
 		"value": "auto"
 	},
 	{
-		"id": 207,
 		"property": "inset-inline",
-		"value": null
+		"value": "Shortcut for the following properties: inset-inline-start (auto), inset-inline-end (auto)"
 	},
 	{
-		"id": 208,
 		"property": "inset-inline-end",
 		"value": "auto"
 	},
 	{
-		"id": 209,
 		"property": "inset-inline-start",
 		"value": "auto"
 	},
 	{
-		"id": 210,
 		"property": "isolation",
 		"value": "auto"
 	},
 	{
-		"id": 211,
 		"property": "justify-content",
 		"value": "normal"
 	},
 	{
-		"id": 212,
 		"property": "justify-items",
 		"value": "legacy"
 	},
 	{
-		"id": 213,
 		"property": "justify-self",
 		"value": "auto"
 	},
 	{
-		"id": 214,
 		"property": "justify-tracks",
 		"value": "normal"
 	},
 	{
-		"id": 215,
 		"property": "left",
 		"value": "auto"
 	},
 	{
-		"id": 216,
 		"property": "letter-spacing",
 		"value": "normal"
 	},
 	{
-		"id": 217,
 		"property": "line-break",
 		"value": "auto"
 	},
 	{
-		"id": 218,
 		"property": "line-clamp",
-		"value": null
+		"value": "none"
 	},
 	{
-		"id": 219,
 		"property": "line-height",
 		"value": "normal"
 	},
 	{
-		"id": 220,
 		"property": "line-height-step",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 221,
 		"property": "list-style",
-		"value": null
+		"value": "Shortcut for the following properties: list-style-type (disc), list-style-position (outside), list-style-image (none)"
 	},
 	{
-		"id": 222,
 		"property": "list-style-image",
 		"value": "none"
 	},
 	{
-		"id": 223,
 		"property": "list-style-position",
 		"value": "outside"
 	},
 	{
-		"id": 224,
 		"property": "list-style-type",
 		"value": "disc"
 	},
 	{
-		"id": 225,
 		"property": "margin",
-		"value": null
+		"value": "Shortcut for the following properties: margin-bottom (0), margin-left (0), margin-right (0), margin-top (0)"
 	},
 	{
-		"id": 226,
 		"property": "margin-block",
-		"value": null
+		"value": "Shortcut for the following properties: margin-block-start (0), margin-block-end (0)"
 	},
 	{
-		"id": 227,
 		"property": "margin-block-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 228,
 		"property": "margin-block-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 229,
 		"property": "margin-bottom",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 230,
 		"property": "margin-inline",
-		"value": null
+		"value": "Shortcut for the following properties: margin-inline-start (0), margin-inline-end (0)"
 	},
 	{
-		"id": 231,
 		"property": "margin-inline-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 232,
 		"property": "margin-inline-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 233,
 		"property": "margin-left",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 234,
 		"property": "margin-right",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 235,
 		"property": "margin-top",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 236,
 		"property": "margin-trim",
 		"value": "none"
 	},
 	{
-		"id": 237,
 		"property": "mask",
-		"value": null
+		"value": "Shortcut for the following properties: mask-image (none), mask-mode (match-source), mask-repeat (repeat), mask-position (0% 0%), mask-clip (border-box), mask-origin (border-box), mask-size (auto), mask-composite (add)"
 	},
 	{
-		"id": 238,
 		"property": "mask-border",
-		"value": null
+		"value": "Shortcut for the following properties: mask-border-mode (alpha), mask-border-outset (0), mask-border-repeat (stretch), mask-border-slice (0), mask-border-source (none), mask-border-width (auto)"
 	},
 	{
-		"id": 239,
 		"property": "mask-border-mode",
 		"value": "alpha"
 	},
 	{
-		"id": 240,
 		"property": "mask-border-outset",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 241,
 		"property": "mask-border-repeat",
 		"value": "stretch"
 	},
 	{
-		"id": 242,
 		"property": "mask-border-slice",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 243,
 		"property": "mask-border-source",
 		"value": "none"
 	},
 	{
-		"id": 244,
 		"property": "mask-border-width",
 		"value": "auto"
 	},
 	{
-		"id": 245,
 		"property": "mask-clip",
 		"value": "border-box"
 	},
 	{
-		"id": 246,
 		"property": "mask-composite",
 		"value": "add"
 	},
 	{
-		"id": 247,
 		"property": "mask-image",
 		"value": "none"
 	},
 	{
-		"id": 248,
 		"property": "mask-mode",
 		"value": "match-source"
 	},
 	{
-		"id": 249,
 		"property": "mask-origin",
 		"value": "border-box"
 	},
 	{
-		"id": 250,
 		"property": "mask-position",
 		"value": "0% 0%"
 	},
 	{
-		"id": 251,
 		"property": "mask-repeat",
 		"value": "repeat"
 	},
 	{
-		"id": 252,
 		"property": "mask-size",
 		"value": "auto"
 	},
 	{
-		"id": 253,
 		"property": "mask-type",
 		"value": "luminance"
 	},
 	{
-		"id": 254,
 		"property": "masonry-auto-flow",
 		"value": "pack"
 	},
 	{
-		"id": 255,
 		"property": "math-depth",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 256,
 		"property": "math-shift",
 		"value": "normal"
 	},
 	{
-		"id": 257,
 		"property": "math-style",
 		"value": "normal"
 	},
 	{
-		"id": 258,
 		"property": "max-block-size",
 		"value": "none"
 	},
 	{
-		"id": 259,
 		"property": "max-height",
 		"value": "none"
 	},
 	{
-		"id": 260,
 		"property": "max-inline-size",
 		"value": "none"
 	},
 	{
-		"id": 261,
 		"property": "max-lines",
-		"value": null
+		"value": "none"
 	},
 	{
-		"id": 262,
 		"property": "max-width",
 		"value": "none"
 	},
 	{
-		"id": 263,
 		"property": "min-block-size",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 264,
 		"property": "min-height",
 		"value": "auto"
 	},
 	{
-		"id": 265,
 		"property": "min-inline-size",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 266,
 		"property": "min-width",
 		"value": "auto"
 	},
 	{
-		"id": 267,
 		"property": "mix-blend-mode",
 		"value": "normal"
 	},
 	{
-		"id": 268,
 		"property": "object-fit",
 		"value": "fill"
 	},
 	{
-		"id": 269,
 		"property": "object-position",
 		"value": "50% 50%"
 	},
 	{
-		"id": 270,
 		"property": "offset",
-		"value": null
+		"value": "Shortcut for the following properties: offset-position (normal), offset-path (none), offset-distance (0), offset-anchor (auto), offset-rotate (auto)"
 	},
 	{
-		"id": 271,
 		"property": "offset-anchor",
 		"value": "auto"
 	},
 	{
-		"id": 272,
 		"property": "offset-distance",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 273,
 		"property": "offset-path",
 		"value": "none"
 	},
 	{
-		"id": 274,
 		"property": "offset-position",
 		"value": "normal"
 	},
 	{
-		"id": 275,
 		"property": "offset-rotate",
 		"value": "auto"
 	},
 	{
-		"id": 276,
 		"property": "opacity",
-		"value": 1
+		"value": "1"
 	},
 	{
-		"id": 277,
 		"property": "order",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 278,
 		"property": "orphans",
-		"value": 2
+		"value": "2"
 	},
 	{
-		"id": 279,
 		"property": "outline",
-		"value": null
+		"value": "Shortcut for the following properties: outline-color (auto), outline-style (none), outline-width (medium)"
 	},
 	{
-		"id": 280,
 		"property": "outline-color",
 		"value": "auto"
 	},
 	{
-		"id": 281,
 		"property": "outline-offset",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 282,
 		"property": "outline-style",
 		"value": "none"
 	},
 	{
-		"id": 283,
 		"property": "outline-width",
 		"value": "medium"
 	},
 	{
-		"id": 284,
 		"property": "overflow-anchor",
 		"value": "auto"
 	},
 	{
-		"id": 285,
 		"property": "overflow-block",
 		"value": "auto"
 	},
 	{
-		"id": 286,
 		"property": "overflow-clip-margin",
 		"value": "0px"
 	},
 	{
-		"id": 287,
 		"property": "overflow-inline",
 		"value": "auto"
 	},
 	{
-		"id": 288,
 		"property": "overflow-wrap",
 		"value": "normal"
 	},
 	{
-		"id": 289,
 		"property": "overflow-x",
 		"value": "visible"
 	},
 	{
-		"id": 290,
 		"property": "overflow-y",
 		"value": "visible"
 	},
 	{
-		"id": 291,
 		"property": "overscroll-behavior",
 		"value": "auto"
 	},
 	{
-		"id": 292,
 		"property": "overscroll-behavior-block",
 		"value": "auto"
 	},
 	{
-		"id": 293,
 		"property": "overscroll-behavior-inline",
 		"value": "auto"
 	},
 	{
-		"id": 294,
 		"property": "overscroll-behavior-x",
 		"value": "auto"
 	},
 	{
-		"id": 295,
 		"property": "overscroll-behavior-y",
 		"value": "auto"
 	},
 	{
-		"id": 296,
 		"property": "padding",
-		"value": null
+		"value": "Shortcut for the following properties: padding-bottom (0), padding-left (0), padding-right (0), padding-top (0)"
 	},
 	{
-		"id": 297,
 		"property": "padding-block",
-		"value": null
+		"value": "Shortcut for the following properties: padding-block-start (0), padding-block-end (0)"
 	},
 	{
-		"id": 298,
 		"property": "padding-block-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 299,
 		"property": "padding-block-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 300,
 		"property": "padding-bottom",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 301,
 		"property": "padding-inline",
-		"value": null
+		"value": "Shortcut for the following properties: padding-inline-start (0), padding-inline-end (0)"
 	},
 	{
-		"id": 302,
 		"property": "padding-inline-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 303,
 		"property": "padding-inline-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 304,
 		"property": "padding-left",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 305,
 		"property": "padding-right",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 306,
 		"property": "padding-top",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 307,
 		"property": "page",
 		"value": "auto"
 	},
 	{
-		"id": 308,
 		"property": "page-break-after",
 		"value": "auto"
 	},
 	{
-		"id": 309,
 		"property": "page-break-before",
 		"value": "auto"
 	},
 	{
-		"id": 310,
 		"property": "page-break-inside",
 		"value": "auto"
 	},
 	{
-		"id": 311,
 		"property": "paint-order",
 		"value": "normal"
 	},
 	{
-		"id": 312,
 		"property": "perspective",
 		"value": "none"
 	},
 	{
-		"id": 313,
 		"property": "perspective-origin",
 		"value": "50% 50%"
 	},
 	{
-		"id": 314,
 		"property": "place-content",
-		"value": null
+		"value": "Shortcut for the following properties: align-content (normal), justify-content (normal)"
 	},
 	{
-		"id": 315,
 		"property": "place-items",
-		"value": null
+		"value": "Shortcut for the following properties: align-items (normal), justify-items (legacy)"
 	},
 	{
-		"id": 316,
 		"property": "place-self",
-		"value": null
+		"value": "Shortcut for the following properties: align-self (auto), justify-self (auto)"
 	},
 	{
-		"id": 317,
 		"property": "pointer-events",
 		"value": "auto"
 	},
 	{
-		"id": 318,
 		"property": "position",
 		"value": "static"
 	},
 	{
-		"id": 319,
 		"property": "print-color-adjust",
 		"value": "economy"
 	},
 	{
-		"id": 320,
-		"property": "Pseudo-classes",
-		"value": null
-	},
-	{
-		"id": 321,
-		"property": "Pseudo-elements",
-		"value": null
-	},
-	{
-		"id": 322,
 		"property": "quotes",
 		"value": "depends on user agent"
 	},
 	{
-		"id": 323,
 		"property": "resize",
 		"value": "none"
 	},
 	{
-		"id": 324,
-		"property": "revert",
-		"value": null
-	},
-	{
-		"id": 325,
 		"property": "right",
 		"value": "auto"
 	},
 	{
-		"id": 326,
 		"property": "rotate",
 		"value": "none"
 	},
 	{
-		"id": 327,
 		"property": "row-gap",
 		"value": "normal"
 	},
 	{
-		"id": 328,
 		"property": "ruby-align",
 		"value": "space-around"
 	},
 	{
-		"id": 329,
 		"property": "ruby-merge",
-		"value": null
+		"value": "separate"
 	},
 	{
-		"id": 330,
 		"property": "ruby-position",
 		"value": "alternate"
 	},
 	{
-		"id": 331,
 		"property": "scale",
 		"value": "none"
 	},
 	{
-		"id": 332,
 		"property": "scroll-behavior",
 		"value": "auto"
 	},
 	{
-		"id": 333,
 		"property": "scroll-margin",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-margin-bottom (0), scroll-margin-left (0), scroll-margin-right (0), scroll-margin-top (0)"
 	},
 	{
-		"id": 334,
 		"property": "scroll-margin-block",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-margin-block-start (0), scroll-margin-block-end (0)"
 	},
 	{
-		"id": 335,
 		"property": "scroll-margin-block-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 336,
 		"property": "scroll-margin-block-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 337,
 		"property": "scroll-margin-bottom",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 338,
 		"property": "scroll-margin-inline",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-margin-inline-start (0), scroll-margin-inline-end (0)"
 	},
 	{
-		"id": 339,
 		"property": "scroll-margin-inline-end",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 340,
 		"property": "scroll-margin-inline-start",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 341,
 		"property": "scroll-margin-left",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 342,
 		"property": "scroll-margin-right",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 343,
 		"property": "scroll-margin-top",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 344,
 		"property": "scroll-padding",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-padding-bottom (auto), scroll-padding-left (auto), scroll-padding-right (auto), scroll-padding-top (auto)"
 	},
 	{
-		"id": 345,
 		"property": "scroll-padding-block",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-padding-block-start (auto), scroll-padding-block-end (auto)"
 	},
 	{
-		"id": 346,
 		"property": "scroll-padding-block-end",
 		"value": "auto"
 	},
 	{
-		"id": 347,
 		"property": "scroll-padding-block-start",
 		"value": "auto"
 	},
 	{
-		"id": 348,
 		"property": "scroll-padding-bottom",
 		"value": "auto"
 	},
 	{
-		"id": 349,
 		"property": "scroll-padding-inline",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-padding-inline-start (auto), scroll-padding-inline-end (auto)"
 	},
 	{
-		"id": 350,
 		"property": "scroll-padding-inline-end",
 		"value": "auto"
 	},
 	{
-		"id": 351,
 		"property": "scroll-padding-inline-start",
 		"value": "auto"
 	},
 	{
-		"id": 352,
 		"property": "scroll-padding-left",
 		"value": "auto"
 	},
 	{
-		"id": 353,
 		"property": "scroll-padding-right",
 		"value": "auto"
 	},
 	{
-		"id": 354,
 		"property": "scroll-padding-top",
 		"value": "auto"
 	},
 	{
-		"id": 355,
 		"property": "scroll-snap-align",
 		"value": "none"
 	},
 	{
-		"id": 356,
 		"property": "scroll-snap-stop",
 		"value": "normal"
 	},
 	{
-		"id": 357,
 		"property": "scroll-snap-type",
 		"value": "none"
 	},
 	{
-		"id": 358,
 		"property": "scroll-timeline",
-		"value": null
+		"value": "Shortcut for the following properties: scroll-timeline-name (none), scroll-timeline-axis (block)"
 	},
 	{
-		"id": 359,
 		"property": "scroll-timeline-axis",
 		"value": "block"
 	},
 	{
-		"id": 360,
 		"property": "scroll-timeline-name",
 		"value": "none"
 	},
 	{
-		"id": 361,
 		"property": "scrollbar-color",
 		"value": "auto"
 	},
 	{
-		"id": 362,
 		"property": "scrollbar-gutter",
 		"value": "auto"
 	},
 	{
-		"id": 363,
 		"property": "scrollbar-width",
 		"value": "auto"
 	},
 	{
-		"id": 364,
 		"property": "shape-image-threshold",
-		"value": 0
+		"value": "0.0"
 	},
 	{
-		"id": 365,
 		"property": "shape-margin",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 366,
 		"property": "shape-outside",
 		"value": "none"
 	},
 	{
-		"id": 367,
 		"property": "tab-size",
-		"value": 8
+		"value": "8"
 	},
 	{
-		"id": 368,
 		"property": "table-layout",
 		"value": "auto"
 	},
 	{
-		"id": 369,
 		"property": "text-align",
 		"value": "start, or a nameless value that acts as left if direction is ltr, right if direction is rtl if start is not supported by the browser."
 	},
 	{
-		"id": 370,
 		"property": "text-align-last",
 		"value": "auto"
 	},
 	{
-		"id": 371,
 		"property": "text-combine-upright",
 		"value": "none"
 	},
 	{
-		"id": 372,
 		"property": "text-decoration",
-		"value": null
+		"value": "Shortcut for the following properties: text-decoration-color (currentcolor), text-decoration-style (solid), text-decoration-line (none)"
 	},
 	{
-		"id": 373,
 		"property": "text-decoration-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 374,
 		"property": "text-decoration-line",
 		"value": "none"
 	},
 	{
-		"id": 375,
 		"property": "text-decoration-skip",
 		"value": "objects"
 	},
 	{
-		"id": 376,
 		"property": "text-decoration-skip-ink",
 		"value": "auto"
 	},
 	{
-		"id": 377,
 		"property": "text-decoration-style",
 		"value": "solid"
 	},
 	{
-		"id": 378,
 		"property": "text-decoration-thickness",
 		"value": "auto"
 	},
 	{
-		"id": 379,
 		"property": "text-emphasis",
-		"value": null
+		"value": "Shortcut for the following properties: text-emphasis-style (none), text-emphasis-color (currentcolor)"
 	},
 	{
-		"id": 380,
 		"property": "text-emphasis-color",
 		"value": "currentcolor"
 	},
 	{
-		"id": 381,
 		"property": "text-emphasis-position",
 		"value": "over right"
 	},
 	{
-		"id": 382,
 		"property": "text-emphasis-style",
 		"value": "none"
 	},
 	{
-		"id": 383,
 		"property": "text-indent",
-		"value": 0
+		"value": "0"
 	},
 	{
-		"id": 384,
 		"property": "text-justify",
 		"value": "auto"
 	},
 	{
-		"id": 385,
 		"property": "text-orientation",
 		"value": "mixed"
 	},
 	{
-		"id": 386,
 		"property": "text-overflow",
 		"value": "clip"
 	},
 	{
-		"id": 387,
 		"property": "text-rendering",
 		"value": "auto"
 	},
 	{
-		"id": 388,
 		"property": "text-shadow",
 		"value": "none"
 	},
 	{
-		"id": 389,
 		"property": "text-size-adjust",
 		"value": "auto for smartphone browsers supporting inflation, none in other cases (and then not modifiable)."
 	},
 	{
-		"id": 390,
 		"property": "text-transform",
 		"value": "none"
 	},
 	{
-		"id": 391,
 		"property": "text-underline-offset",
 		"value": "auto"
 	},
 	{
-		"id": 392,
 		"property": "text-underline-position",
 		"value": "auto"
 	},
 	{
-		"id": 393,
 		"property": "top",
 		"value": "auto"
 	},
 	{
-		"id": 394,
 		"property": "touch-action",
 		"value": "auto"
 	},
 	{
-		"id": 395,
 		"property": "transform",
 		"value": "none"
 	},
 	{
-		"id": 396,
 		"property": "transform-box",
 		"value": "view-box"
 	},
 	{
-		"id": 397,
 		"property": "transform-origin",
 		"value": "50% 50% 0"
 	},
 	{
-		"id": 398,
 		"property": "transform-style",
 		"value": "flat"
 	},
 	{
-		"id": 399,
 		"property": "transition",
-		"value": null
+		"value": "Shortcut for the following properties: transition-delay (0s), transition-duration (0s), transition-property (all), transition-timing-function (ease), transition-behavior (normal)"
 	},
 	{
-		"id": 400,
 		"property": "transition-delay",
 		"value": "0s"
 	},
 	{
-		"id": 401,
 		"property": "transition-duration",
 		"value": "0s"
 	},
 	{
-		"id": 402,
 		"property": "transition-property",
 		"value": "all"
 	},
 	{
-		"id": 403,
 		"property": "transition-timing-function",
 		"value": "ease"
 	},
 	{
-		"id": 404,
 		"property": "translate",
 		"value": "none"
 	},
 	{
-		"id": 405,
 		"property": "unicode-bidi",
 		"value": "normal"
 	},
 	{
-		"id": 406,
-		"property": "unset",
-		"value": null
-	},
-	{
-		"id": 407,
 		"property": "user-select",
 		"value": "auto"
 	},
 	{
-		"id": 408,
 		"property": "vertical-align",
 		"value": "baseline"
 	},
 	{
-		"id": 409,
 		"property": "view-transition-name",
 		"value": "none"
 	},
 	{
-		"id": 410,
 		"property": "visibility",
 		"value": "visible"
 	},
 	{
-		"id": 411,
 		"property": "white-space",
 		"value": "normal"
 	},
 	{
-		"id": 412,
 		"property": "widows",
-		"value": 2
+		"value": "2"
 	},
 	{
-		"id": 413,
 		"property": "width",
 		"value": "auto"
 	},
 	{
-		"id": 414,
 		"property": "will-change",
 		"value": "auto"
 	},
 	{
-		"id": 415,
 		"property": "word-break",
 		"value": "normal"
 	},
 	{
-		"id": 416,
 		"property": "word-spacing",
 		"value": "normal"
 	},
 	{
-		"id": 417,
 		"property": "word-wrap",
-		"value": null
+		"value": "normal"
 	},
 	{
-		"id": 418,
 		"property": "writing-mode",
 		"value": "horizontal-tb"
 	},
 	{
-		"id": 419,
 		"property": "z-index",
 		"value": "auto"
 	}
