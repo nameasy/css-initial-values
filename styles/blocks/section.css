@@ -21,3 +21,9 @@
 	margin-bottom: var(--space-md);
 	text-align: center;
 }
+
+@media screen and (max-width: 48rem) {
+	.section__title {
+		font-size: var(--text-2xl);
+	}
+}
