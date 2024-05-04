@@ -1,1646 +1,1646 @@
 [
-	{
-		"property": "accent-color",
-		"value": "auto"
-	},
-	{
-		"property": "align-content",
-		"value": "normal"
-	},
-	{
-		"property": "align-items",
-		"value": "normal"
-	},
-	{
-		"property": "align-self",
-		"value": "auto"
-	},
-	{
-		"property": "align-tracks",
-		"value": "normal"
-	},
-	{
-		"property": "all",
-		"value": "There is no practical initial value for it."
-	},
-	{
-		"property": "animation",
-		"value": "Shortcut for the following properties: animation-name (none), animation-duration (0s), animation-timing-function (ease), animation-delay (0s), animation-iteration-count (1), animation-direction (normal), animation-fill-mode (none), animation-play-state (running), animation-timeline (auto)"
-	},
-	{
-		"property": "animation-composition",
-		"value": "replace"
-	},
-	{
-		"property": "animation-delay",
-		"value": "0s"
-	},
-	{
-		"property": "animation-direction",
-		"value": "normal"
-	},
-	{
-		"property": "animation-duration",
-		"value": "0s"
-	},
-	{
-		"property": "animation-fill-mode",
-		"value": "none"
-	},
-	{
-		"property": "animation-iteration-count",
-		"value": "1"
-	},
-	{
-		"property": "animation-name",
-		"value": "none"
-	},
-	{
-		"property": "animation-play-state",
-		"value": "running"
-	},
-	{
-		"property": "animation-timeline",
-		"value": "auto"
-	},
-	{
-		"property": "animation-timing-function",
-		"value": "ease"
-	},
-	{
-		"property": "appearance",
-		"value": "none"
-	},
-	{
-		"property": "aspect-ratio",
-		"value": "auto"
-	},
-	{
-		"property": "backdrop-filter",
-		"value": "none"
-	},
-	{
-		"property": "backface-visibility",
-		"value": "visible"
-	},
-	{
-		"property": "background",
-		"value": "Shortcut for the following properties: background-image (none), background-position (0% 0%), background-size (auto auto), background-repeat (repeat), background-origin (padding-box), background-clip (border-box), background-attachment (scroll), background-color (transparent)"
-	},
-	{
-		"property": "background-attachment",
-		"value": "scroll"
-	},
-	{
-		"property": "background-blend-mode",
-		"value": "normal"
-	},
-	{
-		"property": "background-clip",
-		"value": "border-box"
-	},
-	{
-		"property": "background-color",
-		"value": "transparent"
-	},
-	{
-		"property": "background-image",
-		"value": "none"
-	},
-	{
-		"property": "background-origin",
-		"value": "padding-box"
-	},
-	{
-		"property": "background-position",
-		"value": "0% 0%"
-	},
-	{
-		"property": "background-position-x",
-		"value": "0%"
-	},
-	{
-		"property": "background-position-y",
-		"value": "0%"
-	},
-	{
-		"property": "background-repeat",
-		"value": "repeat"
-	},
-	{
-		"property": "background-size",
-		"value": "auto auto"
-	},
-	{
-		"property": "block-size",
-		"value": "auto"
-	},
-	{
-		"property": "border",
-		"value": "Shortcut for the following properties: border-width, border-style, border-color, each of which is also a shortcut"
-	},
-	{
-		"property": "border-block",
-		"value": "Shortcut for the following properties: border-block-width (medium), border-block-style (none), border-block-color (currentcolor)"
-	},
-	{
-		"property": "border-block-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-block-end",
-		"value": "Shortcut for the following properties: border-block-end-width (medium), border-block-end-style (none), border-block-end-color (currentcolor)"
-	},
-	{
-		"property": "border-block-end-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-block-end-style",
-		"value": "none"
-	},
-	{
-		"property": "border-block-end-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-block-start",
-		"value": "Shortcut for the following properties: border-block-start-width (medium), border-block-start-style (none), border-block-start-color (currentcolor)"
-	},
-	{
-		"property": "border-block-start-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-block-start-style",
-		"value": "none"
-	},
-	{
-		"property": "border-block-start-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-block-style",
-		"value": "none"
-	},
-	{
-		"property": "border-block-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-bottom",
-		"value": "Shortcut for the following properties: border-bottom-width (medium), border-bottom-style (none), border-bottom-color (currentcolor)"
-	},
-	{
-		"property": "border-bottom-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-bottom-left-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-bottom-right-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-bottom-style",
-		"value": "none"
-	},
-	{
-		"property": "border-bottom-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-collapse",
-		"value": "separate"
-	},
-	{
-		"property": "border-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-end-end-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-end-start-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-image",
-		"value": "Shortcut for the following properties: border-image-source (none), border-image-slice (100%), border-image-width (1), border-image-outset (0), border-image-repeat (stretch)"
-	},
-	{
-		"property": "border-image-outset",
-		"value": "0"
-	},
-	{
-		"property": "border-image-repeat",
-		"value": "stretch"
-	},
-	{
-		"property": "border-image-slice",
-		"value": "100%"
-	},
-	{
-		"property": "border-image-source",
-		"value": "none"
-	},
-	{
-		"property": "border-image-width",
-		"value": "1"
-	},
-	{
-		"property": "border-inline",
-		"value": "Shortcut for the following properties: border-inline-width (medium), border-inline-style (none), border-inline-color (currentcolor)"
-	},
-	{
-		"property": "border-inline-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-inline-end",
-		"value": "Shortcut for the following properties: border-inline-end-width (medium), border-inline-end-style (none), border-inline-end-color (currentcolor)"
-	},
-	{
-		"property": "border-inline-end-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-inline-end-style",
-		"value": "none"
-	},
-	{
-		"property": "border-inline-end-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-inline-start",
-		"value": "Shortcut for the following properties: border-inline-start-width (medium), border-inline-start-style (none), border-inline-start-color (currentcolor)"
-	},
-	{
-		"property": "border-inline-start-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-inline-start-style",
-		"value": "none"
-	},
-	{
-		"property": "border-inline-start-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-inline-style",
-		"value": "none"
-	},
-	{
-		"property": "border-inline-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-left",
-		"value": "Shortcut for the following properties: border-left-width (medium), border-left-style (none), border-left-color (currentcolor)"
-	},
-	{
-		"property": "border-left-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-left-style",
-		"value": "none"
-	},
-	{
-		"property": "border-left-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-radius",
-		"value": "Shortcut for the following properties: border-top-left-radius (0), border-top-right-radius (0), border-bottom-right-radius (0), border-bottom-left-radius (0)"
-	},
-	{
-		"property": "border-right",
-		"value": "Shortcut for the following properties: border-right-width (medium), border-right-style (none), border-right-color (currentcolor)"
-	},
-	{
-		"property": "border-right-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-right-style",
-		"value": "none"
-	},
-	{
-		"property": "border-right-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-spacing",
-		"value": "0"
-	},
-	{
-		"property": "border-start-end-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-start-start-radius",
-		"value": "border-start-start-radius"
-	},
-	{
-		"property": "border-style",
-		"value": "Shortcut for the following properties: border-top-style (none), border-right-style (none), border-bottom-style (none), border-left-style (none)"
-	},
-	{
-		"property": "border-top",
-		"value": "Shortcut for the following properties: border-top-width (medium), border-top-style (none), border-top-color (currentcolor)"
-	},
-	{
-		"property": "border-top-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "border-top-left-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-top-right-radius",
-		"value": "0"
-	},
-	{
-		"property": "border-top-style",
-		"value": "none"
-	},
-	{
-		"property": "border-top-width",
-		"value": "medium"
-	},
-	{
-		"property": "border-width",
-		"value": "Shortcut for the following properties: border-top-width (medium), border-right-width (medium), border-bottom-width (medium), border-left-width (medium)"
-	},
-	{
-		"property": "bottom",
-		"value": "auto"
-	},
-	{
-		"property": "box-decoration-break",
-		"value": "slice"
-	},
-	{
-		"property": "box-shadow",
-		"value": "none"
-	},
-	{
-		"property": "box-sizing",
-		"value": "content-box"
-	},
-	{
-		"property": "break-after",
-		"value": "auto"
-	},
-	{
-		"property": "break-before",
-		"value": "auto"
-	},
-	{
-		"property": "break-inside",
-		"value": "auto"
-	},
-	{
-		"property": "caption-side",
-		"value": "top"
-	},
-	{
-		"property": "caret",
-		"value": "Shortcut for the following properties: caret-color (auto), caret-shape (auto)"
-	},
-	{
-		"property": "caret-color",
-		"value": "auto"
-	},
-	{
-		"property": "caret-shape",
-		"value": "auto"
-	},
-	{
-		"property": "clear",
-		"value": "none"
-	},
-	{
-		"property": "clip",
-		"value": "auto"
-	},
-	{
-		"property": "clip-path",
-		"value": "none"
-	},
-	{
-		"property": "color",
-		"value": "canvastext"
-	},
-	{
-		"property": "color-scheme",
-		"value": "normal"
-	},
-	{
-		"property": "column-count",
-		"value": "auto"
-	},
-	{
-		"property": "column-fill",
-		"value": "balance"
-	},
-	{
-		"property": "column-gap",
-		"value": "normal"
-	},
-	{
-		"property": "column-rule",
-		"value": "Shortcut for the following properties: column-rule-width (medium), column-rule-style (none), column-rule-color (currentcolor)"
-	},
-	{
-		"property": "column-rule-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "column-rule-style",
-		"value": "none"
-	},
-	{
-		"property": "column-rule-width",
-		"value": "medium"
-	},
-	{
-		"property": "column-span",
-		"value": "none"
-	},
-	{
-		"property": "column-width",
-		"value": "auto"
-	},
-	{
-		"property": "columns",
-		"value": "Shortcut for the following properties: column-width (auto), column-count (auto)"
-	},
-	{
-		"property": "contain",
-		"value": "none"
-	},
-	{
-		"property": "contain-intrinsic-block-size",
-		"value": "none"
-	},
-	{
-		"property": "contain-intrinsic-height",
-		"value": "none"
-	},
-	{
-		"property": "contain-intrinsic-inline-size",
-		"value": "none"
-	},
-	{
-		"property": "contain-intrinsic-size",
-		"value": "Shortcut for the following properties: contain-intrinsic-width (none), contain-intrinsic-height (none)"
-	},
-	{
-		"property": "contain-intrinsic-width",
-		"value": "none"
-	},
-	{
-		"property": "container",
-		"value": "Shortcut for the following properties: container-name (none), container-type (normal)"
-	},
-	{
-		"property": "container-name",
-		"value": "none"
-	},
-	{
-		"property": "container-type",
-		"value": "normal"
-	},
-	{
-		"property": "content",
-		"value": "normal"
-	},
-	{
-		"property": "content-visibility",
-		"value": "visible"
-	},
-	{
-		"property": "counter-increment",
-		"value": "none"
-	},
-	{
-		"property": "counter-reset",
-		"value": "none"
-	},
-	{
-		"property": "counter-set",
-		"value": "none"
-	},
-	{
-		"property": "cursor",
-		"value": "auto"
-	},
-	{
-		"property": "direction",
-		"value": "ltr"
-	},
-	{
-		"property": "display",
-		"value": "inline"
-	},
-	{
-		"property": "empty-cells",
-		"value": "show"
-	},
-	{
-		"property": "filter",
-		"value": "none"
-	},
-	{
-		"property": "flex",
-		"value": "Shortcut for the following properties: flex-grow (0), flex-shrink (1), flex-basis (auto)"
-	},
-	{
-		"property": "flex-basis",
-		"value": "auto"
-	},
-	{
-		"property": "flex-direction",
-		"value": "row"
-	},
-	{
-		"property": "flex-flow",
-		"value": "Shortcut for the following properties: flex-direction (row), flex-wrap (nowrap)"
-	},
-	{
-		"property": "flex-grow",
-		"value": "0"
-	},
-	{
-		"property": "flex-shrink",
-		"value": "1"
-	},
-	{
-		"property": "flex-wrap",
-		"value": "nowrap"
-	},
-	{
-		"property": "float",
-		"value": "none"
-	},
-	{
-		"property": "font",
-		"value": "Shortcut for the following properties: font-style (normal), font-variant (normal), font-weight (normal), font-stretch (normal), font-size (medium), line-height (normal), font-family (depends on user agent)"
-	},
-	{
-		"property": "font-family",
-		"value": "depends on user agent"
-	},
-	{
-		"property": "font-feature-settings",
-		"value": "normal"
-	},
-	{
-		"property": "font-kerning",
-		"value": "auto"
-	},
-	{
-		"property": "font-language-override",
-		"value": "normal"
-	},
-	{
-		"property": "font-optical-sizing",
-		"value": "auto"
-	},
-	{
-		"property": "font-palette",
-		"value": "normal"
-	},
-	{
-		"property": "font-size",
-		"value": "medium"
-	},
-	{
-		"property": "font-size-adjust",
-		"value": "none"
-	},
-	{
-		"property": "font-stretch",
-		"value": "normal"
-	},
-	{
-		"property": "font-style",
-		"value": "normal"
-	},
-	{
-		"property": "font-synthesis",
-		"value": "weight style small-caps position"
-	},
-	{
-		"property": "font-variant",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-alternates",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-caps",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-east-asian",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-emoji",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-ligatures",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-numeric",
-		"value": "normal"
-	},
-	{
-		"property": "font-variant-position",
-		"value": "normal"
-	},
-	{
-		"property": "font-variation-settings",
-		"value": "normal"
-	},
-	{
-		"property": "font-weight",
-		"value": "normal"
-	},
-	{
-		"property": "forced-color-adjust",
-		"value": "auto"
-	},
-	{
-		"property": "gap",
-		"value": "Shortcut for the following properties: row-gap (normal), column-gap (normal)"
-	},
-	{
-		"property": "grid",
-		"value": "Shortcut for the following properties: grid-template-rows (none), grid-template-columns (none), grid-template-areas (none), grid-auto-rows (auto), grid-auto-columns (auto), grid-auto-flow (row), grid-column-gap (0), grid-row-gap (0), column-gap (normal), row-gap (normal)"
-	},
-	{
-		"property": "grid-area",
-		"value": "Shortcut for the following properties: grid-row-start (auto), grid-column-start (auto), grid-row-end (auto), grid-column-end (auto)"
-	},
-	{
-		"property": "grid-auto-columns",
-		"value": "auto"
-	},
-	{
-		"property": "grid-auto-flow",
-		"value": "row"
-	},
-	{
-		"property": "grid-auto-rows",
-		"value": "auto"
-	},
-	{
-		"property": "grid-column",
-		"value": "auto"
-	},
-	{
-		"property": "grid-column-end",
-		"value": "auto"
-	},
-	{
-		"property": "grid-column-start",
-		"value": "auto"
-	},
-	{
-		"property": "grid-row",
-		"value": "Shortcut for the following properties: grid-row-start (auto), grid-row-end (auto)"
-	},
-	{
-		"property": "grid-row-end",
-		"value": "auto"
-	},
-	{
-		"property": "grid-row-start",
-		"value": "auto"
-	},
-	{
-		"property": "grid-template",
-		"value": "Shortcut for the following properties: grid-template-columns (none), grid-template-rows (none), grid-template-areas (none)"
-	},
-	{
-		"property": "grid-template-areas",
-		"value": "none"
-	},
-	{
-		"property": "grid-template-columns",
-		"value": "none"
-	},
-	{
-		"property": "grid-template-rows",
-		"value": "none"
-	},
-	{
-		"property": "hanging-punctuation",
-		"value": "none"
-	},
-	{
-		"property": "height",
-		"value": "auto"
-	},
-	{
-		"property": "hyphenate-character",
-		"value": "auto"
-	},
-	{
-		"property": "hyphenate-limit-chars",
-		"value": "auto"
-	},
-	{
-		"property": "hyphens",
-		"value": "manual"
-	},
-	{
-		"property": "image-orientation",
-		"value": "from-image"
-	},
-	{
-		"property": "image-rendering",
-		"value": "auto"
-	},
-	{
-		"property": "image-resolution",
-		"value": "1dppx"
-	},
-	{
-		"property": "initial-letter",
-		"value": "normal"
-	},
-	{
-		"property": "initial-letter-align",
-		"value": "auto"
-	},
-	{
-		"property": "inline-size",
-		"value": "auto"
-	},
-	{
-		"property": "inset",
-		"value": "Shortcut for the following properties: top (auto), bottom (auto), left (auto), right (auto)"
-	},
-	{
-		"property": "inset-block",
-		"value": "Shortcut for the following properties: inset-block-start (auto), inset-block-end (auto)"
-	},
-	{
-		"property": "inset-block-end",
-		"value": "auto"
-	},
-	{
-		"property": "inset-block-start",
-		"value": "auto"
-	},
-	{
-		"property": "inset-inline",
-		"value": "Shortcut for the following properties: inset-inline-start (auto), inset-inline-end (auto)"
-	},
-	{
-		"property": "inset-inline-end",
-		"value": "auto"
-	},
-	{
-		"property": "inset-inline-start",
-		"value": "auto"
-	},
-	{
-		"property": "isolation",
-		"value": "auto"
-	},
-	{
-		"property": "justify-content",
-		"value": "normal"
-	},
-	{
-		"property": "justify-items",
-		"value": "legacy"
-	},
-	{
-		"property": "justify-self",
-		"value": "auto"
-	},
-	{
-		"property": "justify-tracks",
-		"value": "normal"
-	},
-	{
-		"property": "left",
-		"value": "auto"
-	},
-	{
-		"property": "letter-spacing",
-		"value": "normal"
-	},
-	{
-		"property": "line-break",
-		"value": "auto"
-	},
-	{
-		"property": "line-clamp",
-		"value": "none"
-	},
-	{
-		"property": "line-height",
-		"value": "normal"
-	},
-	{
-		"property": "line-height-step",
-		"value": "0"
-	},
-	{
-		"property": "list-style",
-		"value": "Shortcut for the following properties: list-style-type (disc), list-style-position (outside), list-style-image (none)"
-	},
-	{
-		"property": "list-style-image",
-		"value": "none"
-	},
-	{
-		"property": "list-style-position",
-		"value": "outside"
-	},
-	{
-		"property": "list-style-type",
-		"value": "disc"
-	},
-	{
-		"property": "margin",
-		"value": "Shortcut for the following properties: margin-bottom (0), margin-left (0), margin-right (0), margin-top (0)"
-	},
-	{
-		"property": "margin-block",
-		"value": "Shortcut for the following properties: margin-block-start (0), margin-block-end (0)"
-	},
-	{
-		"property": "margin-block-end",
-		"value": "0"
-	},
-	{
-		"property": "margin-block-start",
-		"value": "0"
-	},
-	{
-		"property": "margin-bottom",
-		"value": "0"
-	},
-	{
-		"property": "margin-inline",
-		"value": "Shortcut for the following properties: margin-inline-start (0), margin-inline-end (0)"
-	},
-	{
-		"property": "margin-inline-end",
-		"value": "0"
-	},
-	{
-		"property": "margin-inline-start",
-		"value": "0"
-	},
-	{
-		"property": "margin-left",
-		"value": "0"
-	},
-	{
-		"property": "margin-right",
-		"value": "0"
-	},
-	{
-		"property": "margin-top",
-		"value": "0"
-	},
-	{
-		"property": "margin-trim",
-		"value": "none"
-	},
-	{
-		"property": "mask",
-		"value": "Shortcut for the following properties: mask-image (none), mask-mode (match-source), mask-repeat (repeat), mask-position (0% 0%), mask-clip (border-box), mask-origin (border-box), mask-size (auto), mask-composite (add)"
-	},
-	{
-		"property": "mask-border",
-		"value": "Shortcut for the following properties: mask-border-mode (alpha), mask-border-outset (0), mask-border-repeat (stretch), mask-border-slice (0), mask-border-source (none), mask-border-width (auto)"
-	},
-	{
-		"property": "mask-border-mode",
-		"value": "alpha"
-	},
-	{
-		"property": "mask-border-outset",
-		"value": "0"
-	},
-	{
-		"property": "mask-border-repeat",
-		"value": "stretch"
-	},
-	{
-		"property": "mask-border-slice",
-		"value": "0"
-	},
-	{
-		"property": "mask-border-source",
-		"value": "none"
-	},
-	{
-		"property": "mask-border-width",
-		"value": "auto"
-	},
-	{
-		"property": "mask-clip",
-		"value": "border-box"
-	},
-	{
-		"property": "mask-composite",
-		"value": "add"
-	},
-	{
-		"property": "mask-image",
-		"value": "none"
-	},
-	{
-		"property": "mask-mode",
-		"value": "match-source"
-	},
-	{
-		"property": "mask-origin",
-		"value": "border-box"
-	},
-	{
-		"property": "mask-position",
-		"value": "0% 0%"
-	},
-	{
-		"property": "mask-repeat",
-		"value": "repeat"
-	},
-	{
-		"property": "mask-size",
-		"value": "auto"
-	},
-	{
-		"property": "mask-type",
-		"value": "luminance"
-	},
-	{
-		"property": "masonry-auto-flow",
-		"value": "pack"
-	},
-	{
-		"property": "math-depth",
-		"value": "0"
-	},
-	{
-		"property": "math-shift",
-		"value": "normal"
-	},
-	{
-		"property": "math-style",
-		"value": "normal"
-	},
-	{
-		"property": "max-block-size",
-		"value": "none"
-	},
-	{
-		"property": "max-height",
-		"value": "none"
-	},
-	{
-		"property": "max-inline-size",
-		"value": "none"
-	},
-	{
-		"property": "max-lines",
-		"value": "none"
-	},
-	{
-		"property": "max-width",
-		"value": "none"
-	},
-	{
-		"property": "min-block-size",
-		"value": "0"
-	},
-	{
-		"property": "min-height",
-		"value": "auto"
-	},
-	{
-		"property": "min-inline-size",
-		"value": "0"
-	},
-	{
-		"property": "min-width",
-		"value": "auto"
-	},
-	{
-		"property": "mix-blend-mode",
-		"value": "normal"
-	},
-	{
-		"property": "object-fit",
-		"value": "fill"
-	},
-	{
-		"property": "object-position",
-		"value": "50% 50%"
-	},
-	{
-		"property": "offset",
-		"value": "Shortcut for the following properties: offset-position (normal), offset-path (none), offset-distance (0), offset-anchor (auto), offset-rotate (auto)"
-	},
-	{
-		"property": "offset-anchor",
-		"value": "auto"
-	},
-	{
-		"property": "offset-distance",
-		"value": "0"
-	},
-	{
-		"property": "offset-path",
-		"value": "none"
-	},
-	{
-		"property": "offset-position",
-		"value": "normal"
-	},
-	{
-		"property": "offset-rotate",
-		"value": "auto"
-	},
-	{
-		"property": "opacity",
-		"value": "1"
-	},
-	{
-		"property": "order",
-		"value": "0"
-	},
-	{
-		"property": "orphans",
-		"value": "2"
-	},
-	{
-		"property": "outline",
-		"value": "Shortcut for the following properties: outline-color (auto), outline-style (none), outline-width (medium)"
-	},
-	{
-		"property": "outline-color",
-		"value": "auto"
-	},
-	{
-		"property": "outline-offset",
-		"value": "0"
-	},
-	{
-		"property": "outline-style",
-		"value": "none"
-	},
-	{
-		"property": "outline-width",
-		"value": "medium"
-	},
-	{
-		"property": "overflow-anchor",
-		"value": "auto"
-	},
-	{
-		"property": "overflow-block",
-		"value": "auto"
-	},
-	{
-		"property": "overflow-clip-margin",
-		"value": "0px"
-	},
-	{
-		"property": "overflow-inline",
-		"value": "auto"
-	},
-	{
-		"property": "overflow-wrap",
-		"value": "normal"
-	},
-	{
-		"property": "overflow-x",
-		"value": "visible"
-	},
-	{
-		"property": "overflow-y",
-		"value": "visible"
-	},
-	{
-		"property": "overscroll-behavior",
-		"value": "auto"
-	},
-	{
-		"property": "overscroll-behavior-block",
-		"value": "auto"
-	},
-	{
-		"property": "overscroll-behavior-inline",
-		"value": "auto"
-	},
-	{
-		"property": "overscroll-behavior-x",
-		"value": "auto"
-	},
-	{
-		"property": "overscroll-behavior-y",
-		"value": "auto"
-	},
-	{
-		"property": "padding",
-		"value": "Shortcut for the following properties: padding-bottom (0), padding-left (0), padding-right (0), padding-top (0)"
-	},
-	{
-		"property": "padding-block",
-		"value": "Shortcut for the following properties: padding-block-start (0), padding-block-end (0)"
-	},
-	{
-		"property": "padding-block-end",
-		"value": "0"
-	},
-	{
-		"property": "padding-block-start",
-		"value": "0"
-	},
-	{
-		"property": "padding-bottom",
-		"value": "0"
-	},
-	{
-		"property": "padding-inline",
-		"value": "Shortcut for the following properties: padding-inline-start (0), padding-inline-end (0)"
-	},
-	{
-		"property": "padding-inline-end",
-		"value": "0"
-	},
-	{
-		"property": "padding-inline-start",
-		"value": "0"
-	},
-	{
-		"property": "padding-left",
-		"value": "0"
-	},
-	{
-		"property": "padding-right",
-		"value": "0"
-	},
-	{
-		"property": "padding-top",
-		"value": "0"
-	},
-	{
-		"property": "page",
-		"value": "auto"
-	},
-	{
-		"property": "page-break-after",
-		"value": "auto"
-	},
-	{
-		"property": "page-break-before",
-		"value": "auto"
-	},
-	{
-		"property": "page-break-inside",
-		"value": "auto"
-	},
-	{
-		"property": "paint-order",
-		"value": "normal"
-	},
-	{
-		"property": "perspective",
-		"value": "none"
-	},
-	{
-		"property": "perspective-origin",
-		"value": "50% 50%"
-	},
-	{
-		"property": "place-content",
-		"value": "Shortcut for the following properties: align-content (normal), justify-content (normal)"
-	},
-	{
-		"property": "place-items",
-		"value": "Shortcut for the following properties: align-items (normal), justify-items (legacy)"
-	},
-	{
-		"property": "place-self",
-		"value": "Shortcut for the following properties: align-self (auto), justify-self (auto)"
-	},
-	{
-		"property": "pointer-events",
-		"value": "auto"
-	},
-	{
-		"property": "position",
-		"value": "static"
-	},
-	{
-		"property": "print-color-adjust",
-		"value": "economy"
-	},
-	{
-		"property": "quotes",
-		"value": "depends on user agent"
-	},
-	{
-		"property": "resize",
-		"value": "none"
-	},
-	{
-		"property": "right",
-		"value": "auto"
-	},
-	{
-		"property": "rotate",
-		"value": "none"
-	},
-	{
-		"property": "row-gap",
-		"value": "normal"
-	},
-	{
-		"property": "ruby-align",
-		"value": "space-around"
-	},
-	{
-		"property": "ruby-merge",
-		"value": "separate"
-	},
-	{
-		"property": "ruby-position",
-		"value": "alternate"
-	},
-	{
-		"property": "scale",
-		"value": "none"
-	},
-	{
-		"property": "scroll-behavior",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-margin",
-		"value": "Shortcut for the following properties: scroll-margin-bottom (0), scroll-margin-left (0), scroll-margin-right (0), scroll-margin-top (0)"
-	},
-	{
-		"property": "scroll-margin-block",
-		"value": "Shortcut for the following properties: scroll-margin-block-start (0), scroll-margin-block-end (0)"
-	},
-	{
-		"property": "scroll-margin-block-end",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-block-start",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-bottom",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-inline",
-		"value": "Shortcut for the following properties: scroll-margin-inline-start (0), scroll-margin-inline-end (0)"
-	},
-	{
-		"property": "scroll-margin-inline-end",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-inline-start",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-left",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-right",
-		"value": "0"
-	},
-	{
-		"property": "scroll-margin-top",
-		"value": "0"
-	},
-	{
-		"property": "scroll-padding",
-		"value": "Shortcut for the following properties: scroll-padding-bottom (auto), scroll-padding-left (auto), scroll-padding-right (auto), scroll-padding-top (auto)"
-	},
-	{
-		"property": "scroll-padding-block",
-		"value": "Shortcut for the following properties: scroll-padding-block-start (auto), scroll-padding-block-end (auto)"
-	},
-	{
-		"property": "scroll-padding-block-end",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-block-start",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-bottom",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-inline",
-		"value": "Shortcut for the following properties: scroll-padding-inline-start (auto), scroll-padding-inline-end (auto)"
-	},
-	{
-		"property": "scroll-padding-inline-end",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-inline-start",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-left",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-right",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-padding-top",
-		"value": "auto"
-	},
-	{
-		"property": "scroll-snap-align",
-		"value": "none"
-	},
-	{
-		"property": "scroll-snap-stop",
-		"value": "normal"
-	},
-	{
-		"property": "scroll-snap-type",
-		"value": "none"
-	},
-	{
-		"property": "scroll-timeline",
-		"value": "Shortcut for the following properties: scroll-timeline-name (none), scroll-timeline-axis (block)"
-	},
-	{
-		"property": "scroll-timeline-axis",
-		"value": "block"
-	},
-	{
-		"property": "scroll-timeline-name",
-		"value": "none"
-	},
-	{
-		"property": "scrollbar-color",
-		"value": "auto"
-	},
-	{
-		"property": "scrollbar-gutter",
-		"value": "auto"
-	},
-	{
-		"property": "scrollbar-width",
-		"value": "auto"
-	},
-	{
-		"property": "shape-image-threshold",
-		"value": "0.0"
-	},
-	{
-		"property": "shape-margin",
-		"value": "0"
-	},
-	{
-		"property": "shape-outside",
-		"value": "none"
-	},
-	{
-		"property": "tab-size",
-		"value": "8"
-	},
-	{
-		"property": "table-layout",
-		"value": "auto"
-	},
-	{
-		"property": "text-align",
-		"value": "start, or a nameless value that acts as left if direction is ltr, right if direction is rtl if start is not supported by the browser."
-	},
-	{
-		"property": "text-align-last",
-		"value": "auto"
-	},
-	{
-		"property": "text-combine-upright",
-		"value": "none"
-	},
-	{
-		"property": "text-decoration",
-		"value": "Shortcut for the following properties: text-decoration-color (currentcolor), text-decoration-style (solid), text-decoration-line (none)"
-	},
-	{
-		"property": "text-decoration-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "text-decoration-line",
-		"value": "none"
-	},
-	{
-		"property": "text-decoration-skip",
-		"value": "objects"
-	},
-	{
-		"property": "text-decoration-skip-ink",
-		"value": "auto"
-	},
-	{
-		"property": "text-decoration-style",
-		"value": "solid"
-	},
-	{
-		"property": "text-decoration-thickness",
-		"value": "auto"
-	},
-	{
-		"property": "text-emphasis",
-		"value": "Shortcut for the following properties: text-emphasis-style (none), text-emphasis-color (currentcolor)"
-	},
-	{
-		"property": "text-emphasis-color",
-		"value": "currentcolor"
-	},
-	{
-		"property": "text-emphasis-position",
-		"value": "over right"
-	},
-	{
-		"property": "text-emphasis-style",
-		"value": "none"
-	},
-	{
-		"property": "text-indent",
-		"value": "0"
-	},
-	{
-		"property": "text-justify",
-		"value": "auto"
-	},
-	{
-		"property": "text-orientation",
-		"value": "mixed"
-	},
-	{
-		"property": "text-overflow",
-		"value": "clip"
-	},
-	{
-		"property": "text-rendering",
-		"value": "auto"
-	},
-	{
-		"property": "text-shadow",
-		"value": "none"
-	},
-	{
-		"property": "text-size-adjust",
-		"value": "auto for smartphone browsers supporting inflation, none in other cases (and then not modifiable)."
-	},
-	{
-		"property": "text-transform",
-		"value": "none"
-	},
-	{
-		"property": "text-underline-offset",
-		"value": "auto"
-	},
-	{
-		"property": "text-underline-position",
-		"value": "auto"
-	},
-	{
-		"property": "top",
-		"value": "auto"
-	},
-	{
-		"property": "touch-action",
-		"value": "auto"
-	},
-	{
-		"property": "transform",
-		"value": "none"
-	},
-	{
-		"property": "transform-box",
-		"value": "view-box"
-	},
-	{
-		"property": "transform-origin",
-		"value": "50% 50% 0"
-	},
-	{
-		"property": "transform-style",
-		"value": "flat"
-	},
-	{
-		"property": "transition",
-		"value": "Shortcut for the following properties: transition-delay (0s), transition-duration (0s), transition-property (all), transition-timing-function (ease), transition-behavior (normal)"
-	},
-	{
-		"property": "transition-delay",
-		"value": "0s"
-	},
-	{
-		"property": "transition-duration",
-		"value": "0s"
-	},
-	{
-		"property": "transition-property",
-		"value": "all"
-	},
-	{
-		"property": "transition-timing-function",
-		"value": "ease"
-	},
-	{
-		"property": "translate",
-		"value": "none"
-	},
-	{
-		"property": "unicode-bidi",
-		"value": "normal"
-	},
-	{
-		"property": "user-select",
-		"value": "auto"
-	},
-	{
-		"property": "vertical-align",
-		"value": "baseline"
-	},
-	{
-		"property": "view-transition-name",
-		"value": "none"
-	},
-	{
-		"property": "visibility",
-		"value": "visible"
-	},
-	{
-		"property": "white-space",
-		"value": "normal"
-	},
-	{
-		"property": "widows",
-		"value": "2"
-	},
-	{
-		"property": "width",
-		"value": "auto"
-	},
-	{
-		"property": "will-change",
-		"value": "auto"
-	},
-	{
-		"property": "word-break",
-		"value": "normal"
-	},
-	{
-		"property": "word-spacing",
-		"value": "normal"
-	},
-	{
-		"property": "word-wrap",
-		"value": "normal"
-	},
-	{
-		"property": "writing-mode",
-		"value": "horizontal-tb"
-	},
-	{
-		"property": "z-index",
-		"value": "auto"
-	}
+  {
+    "property": "accent-color",
+    "value": "auto"
+  },
+  {
+    "property": "align-content",
+    "value": "normal"
+  },
+  {
+    "property": "align-items",
+    "value": "normal"
+  },
+  {
+    "property": "align-self",
+    "value": "auto"
+  },
+  {
+    "property": "align-tracks",
+    "value": "normal"
+  },
+  {
+    "property": "all",
+    "value": "There is no practical initial value for it."
+  },
+  {
+    "property": "animation",
+    "value": "Shortcut for the following properties: animation-name (none), animation-duration (0s), animation-timing-function (ease), animation-delay (0s), animation-iteration-count (1), animation-direction (normal), animation-fill-mode (none), animation-play-state (running), animation-timeline (auto)"
+  },
+  {
+    "property": "animation-composition",
+    "value": "replace"
+  },
+  {
+    "property": "animation-delay",
+    "value": "0s"
+  },
+  {
+    "property": "animation-direction",
+    "value": "normal"
+  },
+  {
+    "property": "animation-duration",
+    "value": "0s"
+  },
+  {
+    "property": "animation-fill-mode",
+    "value": "none"
+  },
+  {
+    "property": "animation-iteration-count",
+    "value": "1"
+  },
+  {
+    "property": "animation-name",
+    "value": "none"
+  },
+  {
+    "property": "animation-play-state",
+    "value": "running"
+  },
+  {
+    "property": "animation-timeline",
+    "value": "auto"
+  },
+  {
+    "property": "animation-timing-function",
+    "value": "ease"
+  },
+  {
+    "property": "appearance",
+    "value": "none"
+  },
+  {
+    "property": "aspect-ratio",
+    "value": "auto"
+  },
+  {
+    "property": "backdrop-filter",
+    "value": "none"
+  },
+  {
+    "property": "backface-visibility",
+    "value": "visible"
+  },
+  {
+    "property": "background",
+    "value": "Shortcut for the following properties: background-image (none), background-position (0% 0%), background-size (auto auto), background-repeat (repeat), background-origin (padding-box), background-clip (border-box), background-attachment (scroll), background-color (transparent)"
+  },
+  {
+    "property": "background-attachment",
+    "value": "scroll"
+  },
+  {
+    "property": "background-blend-mode",
+    "value": "normal"
+  },
+  {
+    "property": "background-clip",
+    "value": "border-box"
+  },
+  {
+    "property": "background-color",
+    "value": "transparent"
+  },
+  {
+    "property": "background-image",
+    "value": "none"
+  },
+  {
+    "property": "background-origin",
+    "value": "padding-box"
+  },
+  {
+    "property": "background-position",
+    "value": "0% 0%"
+  },
+  {
+    "property": "background-position-x",
+    "value": "0%"
+  },
+  {
+    "property": "background-position-y",
+    "value": "0%"
+  },
+  {
+    "property": "background-repeat",
+    "value": "repeat"
+  },
+  {
+    "property": "background-size",
+    "value": "auto auto"
+  },
+  {
+    "property": "block-size",
+    "value": "auto"
+  },
+  {
+    "property": "border",
+    "value": "Shortcut for the following properties: border-width, border-style, border-color, each of which is also a shortcut"
+  },
+  {
+    "property": "border-block",
+    "value": "Shortcut for the following properties: border-block-width (medium), border-block-style (none), border-block-color (currentcolor)"
+  },
+  {
+    "property": "border-block-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-block-end",
+    "value": "Shortcut for the following properties: border-block-end-width (medium), border-block-end-style (none), border-block-end-color (currentcolor)"
+  },
+  {
+    "property": "border-block-end-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-block-end-style",
+    "value": "none"
+  },
+  {
+    "property": "border-block-end-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-block-start",
+    "value": "Shortcut for the following properties: border-block-start-width (medium), border-block-start-style (none), border-block-start-color (currentcolor)"
+  },
+  {
+    "property": "border-block-start-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-block-start-style",
+    "value": "none"
+  },
+  {
+    "property": "border-block-start-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-block-style",
+    "value": "none"
+  },
+  {
+    "property": "border-block-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-bottom",
+    "value": "Shortcut for the following properties: border-bottom-width (medium), border-bottom-style (none), border-bottom-color (currentcolor)"
+  },
+  {
+    "property": "border-bottom-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-bottom-left-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-bottom-right-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-bottom-style",
+    "value": "none"
+  },
+  {
+    "property": "border-bottom-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-collapse",
+    "value": "separate"
+  },
+  {
+    "property": "border-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-end-end-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-end-start-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-image",
+    "value": "Shortcut for the following properties: border-image-source (none), border-image-slice (100%), border-image-width (1), border-image-outset (0), border-image-repeat (stretch)"
+  },
+  {
+    "property": "border-image-outset",
+    "value": "0"
+  },
+  {
+    "property": "border-image-repeat",
+    "value": "stretch"
+  },
+  {
+    "property": "border-image-slice",
+    "value": "100%"
+  },
+  {
+    "property": "border-image-source",
+    "value": "none"
+  },
+  {
+    "property": "border-image-width",
+    "value": "1"
+  },
+  {
+    "property": "border-inline",
+    "value": "Shortcut for the following properties: border-inline-width (medium), border-inline-style (none), border-inline-color (currentcolor)"
+  },
+  {
+    "property": "border-inline-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-inline-end",
+    "value": "Shortcut for the following properties: border-inline-end-width (medium), border-inline-end-style (none), border-inline-end-color (currentcolor)"
+  },
+  {
+    "property": "border-inline-end-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-inline-end-style",
+    "value": "none"
+  },
+  {
+    "property": "border-inline-end-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-inline-start",
+    "value": "Shortcut for the following properties: border-inline-start-width (medium), border-inline-start-style (none), border-inline-start-color (currentcolor)"
+  },
+  {
+    "property": "border-inline-start-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-inline-start-style",
+    "value": "none"
+  },
+  {
+    "property": "border-inline-start-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-inline-style",
+    "value": "none"
+  },
+  {
+    "property": "border-inline-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-left",
+    "value": "Shortcut for the following properties: border-left-width (medium), border-left-style (none), border-left-color (currentcolor)"
+  },
+  {
+    "property": "border-left-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-left-style",
+    "value": "none"
+  },
+  {
+    "property": "border-left-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-radius",
+    "value": "Shortcut for the following properties: border-top-left-radius (0), border-top-right-radius (0), border-bottom-right-radius (0), border-bottom-left-radius (0)"
+  },
+  {
+    "property": "border-right",
+    "value": "Shortcut for the following properties: border-right-width (medium), border-right-style (none), border-right-color (currentcolor)"
+  },
+  {
+    "property": "border-right-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-right-style",
+    "value": "none"
+  },
+  {
+    "property": "border-right-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-spacing",
+    "value": "0"
+  },
+  {
+    "property": "border-start-end-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-start-start-radius",
+    "value": "border-start-start-radius"
+  },
+  {
+    "property": "border-style",
+    "value": "Shortcut for the following properties: border-top-style (none), border-right-style (none), border-bottom-style (none), border-left-style (none)"
+  },
+  {
+    "property": "border-top",
+    "value": "Shortcut for the following properties: border-top-width (medium), border-top-style (none), border-top-color (currentcolor)"
+  },
+  {
+    "property": "border-top-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "border-top-left-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-top-right-radius",
+    "value": "0"
+  },
+  {
+    "property": "border-top-style",
+    "value": "none"
+  },
+  {
+    "property": "border-top-width",
+    "value": "medium"
+  },
+  {
+    "property": "border-width",
+    "value": "Shortcut for the following properties: border-top-width (medium), border-right-width (medium), border-bottom-width (medium), border-left-width (medium)"
+  },
+  {
+    "property": "bottom",
+    "value": "auto"
+  },
+  {
+    "property": "box-decoration-break",
+    "value": "slice"
+  },
+  {
+    "property": "box-shadow",
+    "value": "none"
+  },
+  {
+    "property": "box-sizing",
+    "value": "content-box"
+  },
+  {
+    "property": "break-after",
+    "value": "auto"
+  },
+  {
+    "property": "break-before",
+    "value": "auto"
+  },
+  {
+    "property": "break-inside",
+    "value": "auto"
+  },
+  {
+    "property": "caption-side",
+    "value": "top"
+  },
+  {
+    "property": "caret",
+    "value": "Shortcut for the following properties: caret-color (auto), caret-shape (auto)"
+  },
+  {
+    "property": "caret-color",
+    "value": "auto"
+  },
+  {
+    "property": "caret-shape",
+    "value": "auto"
+  },
+  {
+    "property": "clear",
+    "value": "none"
+  },
+  {
+    "property": "clip",
+    "value": "auto"
+  },
+  {
+    "property": "clip-path",
+    "value": "none"
+  },
+  {
+    "property": "color",
+    "value": "canvastext"
+  },
+  {
+    "property": "color-scheme",
+    "value": "normal"
+  },
+  {
+    "property": "column-count",
+    "value": "auto"
+  },
+  {
+    "property": "column-fill",
+    "value": "balance"
+  },
+  {
+    "property": "column-gap",
+    "value": "normal"
+  },
+  {
+    "property": "column-rule",
+    "value": "Shortcut for the following properties: column-rule-width (medium), column-rule-style (none), column-rule-color (currentcolor)"
+  },
+  {
+    "property": "column-rule-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "column-rule-style",
+    "value": "none"
+  },
+  {
+    "property": "column-rule-width",
+    "value": "medium"
+  },
+  {
+    "property": "column-span",
+    "value": "none"
+  },
+  {
+    "property": "column-width",
+    "value": "auto"
+  },
+  {
+    "property": "columns",
+    "value": "Shortcut for the following properties: column-width (auto), column-count (auto)"
+  },
+  {
+    "property": "contain",
+    "value": "none"
+  },
+  {
+    "property": "contain-intrinsic-block-size",
+    "value": "none"
+  },
+  {
+    "property": "contain-intrinsic-height",
+    "value": "none"
+  },
+  {
+    "property": "contain-intrinsic-inline-size",
+    "value": "none"
+  },
+  {
+    "property": "contain-intrinsic-size",
+    "value": "Shortcut for the following properties: contain-intrinsic-width (none), contain-intrinsic-height (none)"
+  },
+  {
+    "property": "contain-intrinsic-width",
+    "value": "none"
+  },
+  {
+    "property": "container",
+    "value": "Shortcut for the following properties: container-name (none), container-type (normal)"
+  },
+  {
+    "property": "container-name",
+    "value": "none"
+  },
+  {
+    "property": "container-type",
+    "value": "normal"
+  },
+  {
+    "property": "content",
+    "value": "normal"
+  },
+  {
+    "property": "content-visibility",
+    "value": "visible"
+  },
+  {
+    "property": "counter-increment",
+    "value": "none"
+  },
+  {
+    "property": "counter-reset",
+    "value": "none"
+  },
+  {
+    "property": "counter-set",
+    "value": "none"
+  },
+  {
+    "property": "cursor",
+    "value": "auto"
+  },
+  {
+    "property": "direction",
+    "value": "ltr"
+  },
+  {
+    "property": "display",
+    "value": "inline"
+  },
+  {
+    "property": "empty-cells",
+    "value": "show"
+  },
+  {
+    "property": "filter",
+    "value": "none"
+  },
+  {
+    "property": "flex",
+    "value": "Shortcut for the following properties: flex-grow (0), flex-shrink (1), flex-basis (auto)"
+  },
+  {
+    "property": "flex-basis",
+    "value": "auto"
+  },
+  {
+    "property": "flex-direction",
+    "value": "row"
+  },
+  {
+    "property": "flex-flow",
+    "value": "Shortcut for the following properties: flex-direction (row), flex-wrap (nowrap)"
+  },
+  {
+    "property": "flex-grow",
+    "value": "0"
+  },
+  {
+    "property": "flex-shrink",
+    "value": "1"
+  },
+  {
+    "property": "flex-wrap",
+    "value": "nowrap"
+  },
+  {
+    "property": "float",
+    "value": "none"
+  },
+  {
+    "property": "font",
+    "value": "Shortcut for the following properties: font-style (normal), font-variant (normal), font-weight (normal), font-stretch (normal), font-size (medium), line-height (normal), font-family (depends on user agent)"
+  },
+  {
+    "property": "font-family",
+    "value": "depends on user agent"
+  },
+  {
+    "property": "font-feature-settings",
+    "value": "normal"
+  },
+  {
+    "property": "font-kerning",
+    "value": "auto"
+  },
+  {
+    "property": "font-language-override",
+    "value": "normal"
+  },
+  {
+    "property": "font-optical-sizing",
+    "value": "auto"
+  },
+  {
+    "property": "font-palette",
+    "value": "normal"
+  },
+  {
+    "property": "font-size",
+    "value": "medium"
+  },
+  {
+    "property": "font-size-adjust",
+    "value": "none"
+  },
+  {
+    "property": "font-stretch",
+    "value": "normal"
+  },
+  {
+    "property": "font-style",
+    "value": "normal"
+  },
+  {
+    "property": "font-synthesis",
+    "value": "weight style small-caps position"
+  },
+  {
+    "property": "font-variant",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-alternates",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-caps",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-east-asian",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-emoji",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-ligatures",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-numeric",
+    "value": "normal"
+  },
+  {
+    "property": "font-variant-position",
+    "value": "normal"
+  },
+  {
+    "property": "font-variation-settings",
+    "value": "normal"
+  },
+  {
+    "property": "font-weight",
+    "value": "normal"
+  },
+  {
+    "property": "forced-color-adjust",
+    "value": "auto"
+  },
+  {
+    "property": "gap",
+    "value": "Shortcut for the following properties: row-gap (normal), column-gap (normal)"
+  },
+  {
+    "property": "grid",
+    "value": "Shortcut for the following properties: grid-template-rows (none), grid-template-columns (none), grid-template-areas (none), grid-auto-rows (auto), grid-auto-columns (auto), grid-auto-flow (row), grid-column-gap (0), grid-row-gap (0), column-gap (normal), row-gap (normal)"
+  },
+  {
+    "property": "grid-area",
+    "value": "Shortcut for the following properties: grid-row-start (auto), grid-column-start (auto), grid-row-end (auto), grid-column-end (auto)"
+  },
+  {
+    "property": "grid-auto-columns",
+    "value": "auto"
+  },
+  {
+    "property": "grid-auto-flow",
+    "value": "row"
+  },
+  {
+    "property": "grid-auto-rows",
+    "value": "auto"
+  },
+  {
+    "property": "grid-column",
+    "value": "auto"
+  },
+  {
+    "property": "grid-column-end",
+    "value": "auto"
+  },
+  {
+    "property": "grid-column-start",
+    "value": "auto"
+  },
+  {
+    "property": "grid-row",
+    "value": "Shortcut for the following properties: grid-row-start (auto), grid-row-end (auto)"
+  },
+  {
+    "property": "grid-row-end",
+    "value": "auto"
+  },
+  {
+    "property": "grid-row-start",
+    "value": "auto"
+  },
+  {
+    "property": "grid-template",
+    "value": "Shortcut for the following properties: grid-template-columns (none), grid-template-rows (none), grid-template-areas (none)"
+  },
+  {
+    "property": "grid-template-areas",
+    "value": "none"
+  },
+  {
+    "property": "grid-template-columns",
+    "value": "none"
+  },
+  {
+    "property": "grid-template-rows",
+    "value": "none"
+  },
+  {
+    "property": "hanging-punctuation",
+    "value": "none"
+  },
+  {
+    "property": "height",
+    "value": "auto"
+  },
+  {
+    "property": "hyphenate-character",
+    "value": "auto"
+  },
+  {
+    "property": "hyphenate-limit-chars",
+    "value": "auto"
+  },
+  {
+    "property": "hyphens",
+    "value": "manual"
+  },
+  {
+    "property": "image-orientation",
+    "value": "from-image"
+  },
+  {
+    "property": "image-rendering",
+    "value": "auto"
+  },
+  {
+    "property": "image-resolution",
+    "value": "1dppx"
+  },
+  {
+    "property": "initial-letter",
+    "value": "normal"
+  },
+  {
+    "property": "initial-letter-align",
+    "value": "auto"
+  },
+  {
+    "property": "inline-size",
+    "value": "auto"
+  },
+  {
+    "property": "inset",
+    "value": "Shortcut for the following properties: top (auto), bottom (auto), left (auto), right (auto)"
+  },
+  {
+    "property": "inset-block",
+    "value": "Shortcut for the following properties: inset-block-start (auto), inset-block-end (auto)"
+  },
+  {
+    "property": "inset-block-end",
+    "value": "auto"
+  },
+  {
+    "property": "inset-block-start",
+    "value": "auto"
+  },
+  {
+    "property": "inset-inline",
+    "value": "Shortcut for the following properties: inset-inline-start (auto), inset-inline-end (auto)"
+  },
+  {
+    "property": "inset-inline-end",
+    "value": "auto"
+  },
+  {
+    "property": "inset-inline-start",
+    "value": "auto"
+  },
+  {
+    "property": "isolation",
+    "value": "auto"
+  },
+  {
+    "property": "justify-content",
+    "value": "normal"
+  },
+  {
+    "property": "justify-items",
+    "value": "legacy"
+  },
+  {
+    "property": "justify-self",
+    "value": "auto"
+  },
+  {
+    "property": "justify-tracks",
+    "value": "normal"
+  },
+  {
+    "property": "left",
+    "value": "auto"
+  },
+  {
+    "property": "letter-spacing",
+    "value": "normal"
+  },
+  {
+    "property": "line-break",
+    "value": "auto"
+  },
+  {
+    "property": "line-clamp",
+    "value": "none"
+  },
+  {
+    "property": "line-height",
+    "value": "normal"
+  },
+  {
+    "property": "line-height-step",
+    "value": "0"
+  },
+  {
+    "property": "list-style",
+    "value": "Shortcut for the following properties: list-style-type (disc), list-style-position (outside), list-style-image (none)"
+  },
+  {
+    "property": "list-style-image",
+    "value": "none"
+  },
+  {
+    "property": "list-style-position",
+    "value": "outside"
+  },
+  {
+    "property": "list-style-type",
+    "value": "disc"
+  },
+  {
+    "property": "margin",
+    "value": "Shortcut for the following properties: margin-bottom (0), margin-left (0), margin-right (0), margin-top (0)"
+  },
+  {
+    "property": "margin-block",
+    "value": "Shortcut for the following properties: margin-block-start (0), margin-block-end (0)"
+  },
+  {
+    "property": "margin-block-end",
+    "value": "0"
+  },
+  {
+    "property": "margin-block-start",
+    "value": "0"
+  },
+  {
+    "property": "margin-bottom",
+    "value": "0"
+  },
+  {
+    "property": "margin-inline",
+    "value": "Shortcut for the following properties: margin-inline-start (0), margin-inline-end (0)"
+  },
+  {
+    "property": "margin-inline-end",
+    "value": "0"
+  },
+  {
+    "property": "margin-inline-start",
+    "value": "0"
+  },
+  {
+    "property": "margin-left",
+    "value": "0"
+  },
+  {
+    "property": "margin-right",
+    "value": "0"
+  },
+  {
+    "property": "margin-top",
+    "value": "0"
+  },
+  {
+    "property": "margin-trim",
+    "value": "none"
+  },
+  {
+    "property": "mask",
+    "value": "Shortcut for the following properties: mask-image (none), mask-mode (match-source), mask-repeat (repeat), mask-position (0% 0%), mask-clip (border-box), mask-origin (border-box), mask-size (auto), mask-composite (add)"
+  },
+  {
+    "property": "mask-border",
+    "value": "Shortcut for the following properties: mask-border-mode (alpha), mask-border-outset (0), mask-border-repeat (stretch), mask-border-slice (0), mask-border-source (none), mask-border-width (auto)"
+  },
+  {
+    "property": "mask-border-mode",
+    "value": "alpha"
+  },
+  {
+    "property": "mask-border-outset",
+    "value": "0"
+  },
+  {
+    "property": "mask-border-repeat",
+    "value": "stretch"
+  },
+  {
+    "property": "mask-border-slice",
+    "value": "0"
+  },
+  {
+    "property": "mask-border-source",
+    "value": "none"
+  },
+  {
+    "property": "mask-border-width",
+    "value": "auto"
+  },
+  {
+    "property": "mask-clip",
+    "value": "border-box"
+  },
+  {
+    "property": "mask-composite",
+    "value": "add"
+  },
+  {
+    "property": "mask-image",
+    "value": "none"
+  },
+  {
+    "property": "mask-mode",
+    "value": "match-source"
+  },
+  {
+    "property": "mask-origin",
+    "value": "border-box"
+  },
+  {
+    "property": "mask-position",
+    "value": "0% 0%"
+  },
+  {
+    "property": "mask-repeat",
+    "value": "repeat"
+  },
+  {
+    "property": "mask-size",
+    "value": "auto"
+  },
+  {
+    "property": "mask-type",
+    "value": "luminance"
+  },
+  {
+    "property": "masonry-auto-flow",
+    "value": "pack"
+  },
+  {
+    "property": "math-depth",
+    "value": "0"
+  },
+  {
+    "property": "math-shift",
+    "value": "normal"
+  },
+  {
+    "property": "math-style",
+    "value": "normal"
+  },
+  {
+    "property": "max-block-size",
+    "value": "none"
+  },
+  {
+    "property": "max-height",
+    "value": "none"
+  },
+  {
+    "property": "max-inline-size",
+    "value": "none"
+  },
+  {
+    "property": "max-lines",
+    "value": "none"
+  },
+  {
+    "property": "max-width",
+    "value": "none"
+  },
+  {
+    "property": "min-block-size",
+    "value": "0"
+  },
+  {
+    "property": "min-height",
+    "value": "auto"
+  },
+  {
+    "property": "min-inline-size",
+    "value": "0"
+  },
+  {
+    "property": "min-width",
+    "value": "auto"
+  },
+  {
+    "property": "mix-blend-mode",
+    "value": "normal"
+  },
+  {
+    "property": "object-fit",
+    "value": "fill"
+  },
+  {
+    "property": "object-position",
+    "value": "50% 50%"
+  },
+  {
+    "property": "offset",
+    "value": "Shortcut for the following properties: offset-position (normal), offset-path (none), offset-distance (0), offset-anchor (auto), offset-rotate (auto)"
+  },
+  {
+    "property": "offset-anchor",
+    "value": "auto"
+  },
+  {
+    "property": "offset-distance",
+    "value": "0"
+  },
+  {
+    "property": "offset-path",
+    "value": "none"
+  },
+  {
+    "property": "offset-position",
+    "value": "normal"
+  },
+  {
+    "property": "offset-rotate",
+    "value": "auto"
+  },
+  {
+    "property": "opacity",
+    "value": "1"
+  },
+  {
+    "property": "order",
+    "value": "0"
+  },
+  {
+    "property": "orphans",
+    "value": "2"
+  },
+  {
+    "property": "outline",
+    "value": "Shortcut for the following properties: outline-color (auto), outline-style (none), outline-width (medium)"
+  },
+  {
+    "property": "outline-color",
+    "value": "auto"
+  },
+  {
+    "property": "outline-offset",
+    "value": "0"
+  },
+  {
+    "property": "outline-style",
+    "value": "none"
+  },
+  {
+    "property": "outline-width",
+    "value": "medium"
+  },
+  {
+    "property": "overflow-anchor",
+    "value": "auto"
+  },
+  {
+    "property": "overflow-block",
+    "value": "auto"
+  },
+  {
+    "property": "overflow-clip-margin",
+    "value": "0px"
+  },
+  {
+    "property": "overflow-inline",
+    "value": "auto"
+  },
+  {
+    "property": "overflow-wrap",
+    "value": "normal"
+  },
+  {
+    "property": "overflow-x",
+    "value": "visible"
+  },
+  {
+    "property": "overflow-y",
+    "value": "visible"
+  },
+  {
+    "property": "overscroll-behavior",
+    "value": "auto"
+  },
+  {
+    "property": "overscroll-behavior-block",
+    "value": "auto"
+  },
+  {
+    "property": "overscroll-behavior-inline",
+    "value": "auto"
+  },
+  {
+    "property": "overscroll-behavior-x",
+    "value": "auto"
+  },
+  {
+    "property": "overscroll-behavior-y",
+    "value": "auto"
+  },
+  {
+    "property": "padding",
+    "value": "Shortcut for the following properties: padding-bottom (0), padding-left (0), padding-right (0), padding-top (0)"
+  },
+  {
+    "property": "padding-block",
+    "value": "Shortcut for the following properties: padding-block-start (0), padding-block-end (0)"
+  },
+  {
+    "property": "padding-block-end",
+    "value": "0"
+  },
+  {
+    "property": "padding-block-start",
+    "value": "0"
+  },
+  {
+    "property": "padding-bottom",
+    "value": "0"
+  },
+  {
+    "property": "padding-inline",
+    "value": "Shortcut for the following properties: padding-inline-start (0), padding-inline-end (0)"
+  },
+  {
+    "property": "padding-inline-end",
+    "value": "0"
+  },
+  {
+    "property": "padding-inline-start",
+    "value": "0"
+  },
+  {
+    "property": "padding-left",
+    "value": "0"
+  },
+  {
+    "property": "padding-right",
+    "value": "0"
+  },
+  {
+    "property": "padding-top",
+    "value": "0"
+  },
+  {
+    "property": "page",
+    "value": "auto"
+  },
+  {
+    "property": "page-break-after",
+    "value": "auto"
+  },
+  {
+    "property": "page-break-before",
+    "value": "auto"
+  },
+  {
+    "property": "page-break-inside",
+    "value": "auto"
+  },
+  {
+    "property": "paint-order",
+    "value": "normal"
+  },
+  {
+    "property": "perspective",
+    "value": "none"
+  },
+  {
+    "property": "perspective-origin",
+    "value": "50% 50%"
+  },
+  {
+    "property": "place-content",
+    "value": "Shortcut for the following properties: align-content (normal), justify-content (normal)"
+  },
+  {
+    "property": "place-items",
+    "value": "Shortcut for the following properties: align-items (normal), justify-items (legacy)"
+  },
+  {
+    "property": "place-self",
+    "value": "Shortcut for the following properties: align-self (auto), justify-self (auto)"
+  },
+  {
+    "property": "pointer-events",
+    "value": "auto"
+  },
+  {
+    "property": "position",
+    "value": "static"
+  },
+  {
+    "property": "print-color-adjust",
+    "value": "economy"
+  },
+  {
+    "property": "quotes",
+    "value": "depends on user agent"
+  },
+  {
+    "property": "resize",
+    "value": "none"
+  },
+  {
+    "property": "right",
+    "value": "auto"
+  },
+  {
+    "property": "rotate",
+    "value": "none"
+  },
+  {
+    "property": "row-gap",
+    "value": "normal"
+  },
+  {
+    "property": "ruby-align",
+    "value": "space-around"
+  },
+  {
+    "property": "ruby-merge",
+    "value": "separate"
+  },
+  {
+    "property": "ruby-position",
+    "value": "alternate"
+  },
+  {
+    "property": "scale",
+    "value": "none"
+  },
+  {
+    "property": "scroll-behavior",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-margin",
+    "value": "Shortcut for the following properties: scroll-margin-bottom (0), scroll-margin-left (0), scroll-margin-right (0), scroll-margin-top (0)"
+  },
+  {
+    "property": "scroll-margin-block",
+    "value": "Shortcut for the following properties: scroll-margin-block-start (0), scroll-margin-block-end (0)"
+  },
+  {
+    "property": "scroll-margin-block-end",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-block-start",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-bottom",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-inline",
+    "value": "Shortcut for the following properties: scroll-margin-inline-start (0), scroll-margin-inline-end (0)"
+  },
+  {
+    "property": "scroll-margin-inline-end",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-inline-start",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-left",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-right",
+    "value": "0"
+  },
+  {
+    "property": "scroll-margin-top",
+    "value": "0"
+  },
+  {
+    "property": "scroll-padding",
+    "value": "Shortcut for the following properties: scroll-padding-bottom (auto), scroll-padding-left (auto), scroll-padding-right (auto), scroll-padding-top (auto)"
+  },
+  {
+    "property": "scroll-padding-block",
+    "value": "Shortcut for the following properties: scroll-padding-block-start (auto), scroll-padding-block-end (auto)"
+  },
+  {
+    "property": "scroll-padding-block-end",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-block-start",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-bottom",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-inline",
+    "value": "Shortcut for the following properties: scroll-padding-inline-start (auto), scroll-padding-inline-end (auto)"
+  },
+  {
+    "property": "scroll-padding-inline-end",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-inline-start",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-left",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-right",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-padding-top",
+    "value": "auto"
+  },
+  {
+    "property": "scroll-snap-align",
+    "value": "none"
+  },
+  {
+    "property": "scroll-snap-stop",
+    "value": "normal"
+  },
+  {
+    "property": "scroll-snap-type",
+    "value": "none"
+  },
+  {
+    "property": "scroll-timeline",
+    "value": "Shortcut for the following properties: scroll-timeline-name (none), scroll-timeline-axis (block)"
+  },
+  {
+    "property": "scroll-timeline-axis",
+    "value": "block"
+  },
+  {
+    "property": "scroll-timeline-name",
+    "value": "none"
+  },
+  {
+    "property": "scrollbar-color",
+    "value": "auto"
+  },
+  {
+    "property": "scrollbar-gutter",
+    "value": "auto"
+  },
+  {
+    "property": "scrollbar-width",
+    "value": "auto"
+  },
+  {
+    "property": "shape-image-threshold",
+    "value": "0.0"
+  },
+  {
+    "property": "shape-margin",
+    "value": "0"
+  },
+  {
+    "property": "shape-outside",
+    "value": "none"
+  },
+  {
+    "property": "tab-size",
+    "value": "8"
+  },
+  {
+    "property": "table-layout",
+    "value": "auto"
+  },
+  {
+    "property": "text-align",
+    "value": "start, or a nameless value that acts as left if direction is ltr, right if direction is rtl if start is not supported by the browser."
+  },
+  {
+    "property": "text-align-last",
+    "value": "auto"
+  },
+  {
+    "property": "text-combine-upright",
+    "value": "none"
+  },
+  {
+    "property": "text-decoration",
+    "value": "Shortcut for the following properties: text-decoration-color (currentcolor), text-decoration-style (solid), text-decoration-line (none)"
+  },
+  {
+    "property": "text-decoration-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "text-decoration-line",
+    "value": "none"
+  },
+  {
+    "property": "text-decoration-skip",
+    "value": "objects"
+  },
+  {
+    "property": "text-decoration-skip-ink",
+    "value": "auto"
+  },
+  {
+    "property": "text-decoration-style",
+    "value": "solid"
+  },
+  {
+    "property": "text-decoration-thickness",
+    "value": "auto"
+  },
+  {
+    "property": "text-emphasis",
+    "value": "Shortcut for the following properties: text-emphasis-style (none), text-emphasis-color (currentcolor)"
+  },
+  {
+    "property": "text-emphasis-color",
+    "value": "currentcolor"
+  },
+  {
+    "property": "text-emphasis-position",
+    "value": "over right"
+  },
+  {
+    "property": "text-emphasis-style",
+    "value": "none"
+  },
+  {
+    "property": "text-indent",
+    "value": "0"
+  },
+  {
+    "property": "text-justify",
+    "value": "auto"
+  },
+  {
+    "property": "text-orientation",
+    "value": "mixed"
+  },
+  {
+    "property": "text-overflow",
+    "value": "clip"
+  },
+  {
+    "property": "text-rendering",
+    "value": "auto"
+  },
+  {
+    "property": "text-shadow",
+    "value": "none"
+  },
+  {
+    "property": "text-size-adjust",
+    "value": "auto for smartphone browsers supporting inflation, none in other cases (and then not modifiable)."
+  },
+  {
+    "property": "text-transform",
+    "value": "none"
+  },
+  {
+    "property": "text-underline-offset",
+    "value": "auto"
+  },
+  {
+    "property": "text-underline-position",
+    "value": "auto"
+  },
+  {
+    "property": "top",
+    "value": "auto"
+  },
+  {
+    "property": "touch-action",
+    "value": "auto"
+  },
+  {
+    "property": "transform",
+    "value": "none"
+  },
+  {
+    "property": "transform-box",
+    "value": "view-box"
+  },
+  {
+    "property": "transform-origin",
+    "value": "50% 50% 0"
+  },
+  {
+    "property": "transform-style",
+    "value": "flat"
+  },
+  {
+    "property": "transition",
+    "value": "Shortcut for the following properties: transition-delay (0s), transition-duration (0s), transition-property (all), transition-timing-function (ease), transition-behavior (normal)"
+  },
+  {
+    "property": "transition-delay",
+    "value": "0s"
+  },
+  {
+    "property": "transition-duration",
+    "value": "0s"
+  },
+  {
+    "property": "transition-property",
+    "value": "all"
+  },
+  {
+    "property": "transition-timing-function",
+    "value": "ease"
+  },
+  {
+    "property": "translate",
+    "value": "none"
+  },
+  {
+    "property": "unicode-bidi",
+    "value": "normal"
+  },
+  {
+    "property": "user-select",
+    "value": "auto"
+  },
+  {
+    "property": "vertical-align",
+    "value": "baseline"
+  },
+  {
+    "property": "view-transition-name",
+    "value": "none"
+  },
+  {
+    "property": "visibility",
+    "value": "visible"
+  },
+  {
+    "property": "white-space",
+    "value": "normal"
+  },
+  {
+    "property": "widows",
+    "value": "2"
+  },
+  {
+    "property": "width",
+    "value": "auto"
+  },
+  {
+    "property": "will-change",
+    "value": "auto"
+  },
+  {
+    "property": "word-break",
+    "value": "normal"
+  },
+  {
+    "property": "word-spacing",
+    "value": "normal"
+  },
+  {
+    "property": "word-wrap",
+    "value": "normal"
+  },
+  {
+    "property": "writing-mode",
+    "value": "horizontal-tb"
+  },
+  {
+    "property": "z-index",
+    "value": "auto"
+  }
 ]

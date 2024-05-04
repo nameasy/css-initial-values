@@ -1,20 +1,19 @@
 :focus {
-	outline: none;
+  outline: none;
 }
 
 body {
-	background-color: var(--color-bg);
-	color: var(--color-text);
-	/*font-family: 'Roboto', sans-serif;*/
-	font-family: 'Syne', sans-serif;
-	font-size: var(--text-base);
-	line-height: 1.2;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-size: var(--text-base);
+  line-height: 1.2;
+  font-family: 'Syne', sans-serif;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 img {
-	vertical-align: middle;
+  vertical-align: middle;
 }

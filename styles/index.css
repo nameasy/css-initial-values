@@ -9,11 +9,6 @@
 @import 'blocks/section.css';
 @import 'blocks/search-field.css';
 @import 'blocks/property-list.css';
+@import 'blocks/highlight.css';
 @import 'blocks/footer.css';
 @import 'blocks/visually-hidden.css';
-
-.highlight {
-	/*background-color: #ff692e;*/
-	background-color: var(--color-primary);
-	color: var(--color-white);
-}
