@@ -1,8 +1,8 @@
 .property-list__item {
   /*display: flex;*/
   display: grid;
-  /*align-items: baseline;
-  gap: var(--space-sm);
+  align-items: center;
+  /*gap: var(--space-sm);
   border-bottom: 4px solid var(--color-bg-dark);*/
   border-bottom: 4px dotted var(--color-bg-dark);
   grid-gap: var(--space-2xs) var(--space-sm);
