@@ -318,7 +318,7 @@ img {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  padding-top: calc(var(--text-lg) - var(--text-md));
+  padding-top: calc(var(--text-lg) * 1.2 / 2 - var(--text-md) * 1.2 / 2);
   color: var(--color-gray-light);
   font-size: var(--text-md);
   font-family: 'IBM Plex Mono', monospace;
