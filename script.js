@@ -1,85 +1,85 @@
+const DEBOUNCE_DELAY = 250;
+const inputElement = document.querySelector('.search-field__input');
 const listElement = document.querySelector('.property-list');
+const textElement = document.querySelector('.section__text');
 
 async function init() {
   try {
     const response = await fetch('data.json');
     const data = await response.json();
-    renderData(data);
-    setupSearchListener();
+    filterAndDisplayResults(data);
+    inputElement.addEventListener(
+      'input',
+      debounce(() => filterAndDisplayResults(data), DEBOUNCE_DELAY),
+    );
   } catch (error) {
     console.error(error);
   }
 }
 
-function renderData(data) {
-  data.forEach(({ property, value }) => {
-    /*const itemElement = createListItem(property, value || 'Value not yet set');*/
-    const itemElement = createListItem(
-      property,
-      value === undefined || value === '' ? 'Value not yet set' : value,
-    );
-    listElement.append(itemElement);
+function filterAndDisplayResults(data) {
+  const searchQuery = inputElement.value.trim().toLowerCase();
+  const filteredData = filterData(data, searchQuery);
+  displayFilteredResults(filteredData, searchQuery);
+}
+
+function filterData(data, query) {
+  return data.filter((item) => {
+    const propertyName = item.property.toLowerCase();
+    const propertyValue = (item.value || '').toLowerCase();
+    return propertyName.includes(query) || propertyValue.includes(query);
   });
 }
 
-function createListItem(property, value) {
+function displayFilteredResults(filteredData, query) {
+  listElement.innerHTML = '';
+  if (filteredData.length === 0) {
+    textElement.style.display = 'block';
+  } else {
+    textElement.style.display = 'none';
+    filteredData.forEach((item) => {
+      const itemElement = createItemElement(item.property, item.value, query);
+      listElement.append(itemElement);
+    });
+  }
+}
+
+function createItemElement(property, value, query) {
   const itemElement = document.createElement('li');
   itemElement.classList.add('property-list__item');
-  const propertyElement = createElement(
-    'div',
-    'property-list__property',
-    property,
+  const propertyElement = document.createElement('div');
+  propertyElement.classList.add('property-list__property');
+  propertyElement.innerHTML = highlightMatches(property, query);
+  const valueElement = document.createElement('div');
+  valueElement.classList.add('property-list__value');
+  valueElement.innerHTML = highlightMatches(
+    value || 'Value not yet set',
+    query,
   );
-  const valueElement = createElement('div', 'property-list__value', value);
   itemElement.append(propertyElement, valueElement);
   return itemElement;
 }
 
-function createElement(tagName, className, textContent) {
-  const element = document.createElement(tagName);
-  element.classList.add(className);
-  element.textContent = textContent;
-  return element;
-}
-
-function setupSearchListener() {
-  const searchInput = document.querySelector('.search-field__input');
-  searchInput.addEventListener('input', handleSearch);
-}
-
-function handleSearch() {
-  const searchQuery = this.value.trim().toLowerCase();
-  const itemElements = listElement.querySelectorAll('.property-list__item');
-  itemElements.forEach((itemElement) => {
-    const propertyText = itemElement
-      .querySelector('.property-list__property')
-      .textContent.toLowerCase();
-    const valueText = itemElement
-      .querySelector('.property-list__value')
-      .textContent.toLowerCase();
-    const matches =
-      propertyText.includes(searchQuery) || valueText.includes(searchQuery);
-    itemElement.style.display = matches ? 'grid' : 'none';
-    highlightMatches(itemElement, searchQuery);
-  });
-}
-
-function highlightMatches(itemElement, searchQuery) {
-  const elementsToHighlight = itemElement.querySelectorAll(
-    '.property-list__property, .property-list__value',
+function highlightMatches(text, query) {
+  if (!query) {
+    return text;
+  }
+  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const regex = new RegExp(escapedQuery, 'gi');
+  return text.replace(
+    regex,
+    (match) => `<span class="highlight">${match}</span>`,
   );
-  elementsToHighlight.forEach((element) => {
-    const text = element.textContent;
-    if (searchQuery) {
-      const highlightedText = text.replace(
-        new RegExp(searchQuery, 'gi'),
-        (match) => `<span class="highlight">${match}</span>`,
-      );
-      element.innerHTML = highlightedText;
-    } else {
-      element.innerHTML = text;
-    }
-  });
+}
+
+function debounce(callback, delay) {
+  let timeoutId;
+  return (event) => {
+    clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => {
+      callback(event);
+    }, delay);
+  };
 }
 
 init();
