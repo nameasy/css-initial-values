@@ -1,9 +1,0 @@
-.page {
-  display: flex;
-  flex-direction: column;
-  max-width: 120rem;
-  min-height: 100vh;
-  min-height: 100dvh;
-  margin-right: auto;
-  margin-left: auto;
-}
